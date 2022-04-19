@@ -1,2 +1,12 @@
 # micro-rs
-micro services in Rust
+
+Micro services in Rust
+
+## Features
+
+* Monorepo - Sharing code between microservies
+* tokio
+* tonic
+* sqlx
+* sqlb
+* time
