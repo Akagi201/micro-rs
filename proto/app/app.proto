@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+package proto.app;
+
+service AppService {
+  rpc Echo(EchoReq) returns (EchoResp) {}
+}
+
+message EchoReq {
+  string message = 1;
+}
+
+message EchoResp {
+  string message = 1;
+}

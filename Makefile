@@ -3,7 +3,15 @@ all: help
 
 .PHONY: build # cargo build
 build:
-	cargo build --release
+	RUSTFLAGS="-C link-arg=-s" cargo build --release
+
+.PHONY: fmt # cargo fmt --all
+fmt:
+	cargo fmt --all
+
+.PHONY: check # cargo clippy --all
+check:
+	cargo clippy --all
 
 .PHONY: test # cargo test
 test:
