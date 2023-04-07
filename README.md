@@ -13,6 +13,10 @@ Micro services in Rust
 - [ ] [time](https://github.com/time-rs/time) - time handling
 - [ ] [tracing](https://github.com/tokio-rs/tracing) - tracing and log
 
+## Libs
+
+- [ ] [shadow-rs](https://github.com/baoyachi/shadow-rs) - build time information
+
 ## Static Analysis
 
 - [ ] [lockbud](https://github.com/BurtonQin/lockbud) - dead lock detection
