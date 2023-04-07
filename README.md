@@ -12,3 +12,7 @@ Micro services in Rust
 - [ ] [sqlx](https://github.com/launchbadge/sqlx) - sql toolkit
 - [ ] [time](https://github.com/time-rs/time) - time handling
 - [ ] [tracing](https://github.com/tokio-rs/tracing) - tracing and log
+
+## Static Analysis
+
+- [ ] [lockbud](https://github.com/BurtonQin/lockbud) - dead lock detection
