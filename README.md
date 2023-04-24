@@ -16,6 +16,7 @@ Micro services in Rust
 ## Libs
 
 - [ ] [shadow-rs](https://github.com/baoyachi/shadow-rs) - build time information
+- [ ] [serde_with](https://github.com/jonasbb/serde_with) - serde helpers
 
 ## Static Analysis
 
