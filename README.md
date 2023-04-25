@@ -21,3 +21,7 @@ Micro services in Rust
 ## Static Analysis
 
 - [ ] [lockbud](https://github.com/BurtonQin/lockbud) - dead lock detection
+
+## Books
+
+- [ ] [Rust Book Abridged](https://jasonwalton.ca/rust-book-abridged/) - condensed version of The Rust Programming Language
