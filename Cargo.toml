@@ -17,4 +17,4 @@ tonic-reflection = "0.4.0"
 hyper = { version = "0.14.18", features = ["full"] }
 
 [build-dependencies]
-tonic-build = "0.7.1"
+tonic-build = "0.8.4"
