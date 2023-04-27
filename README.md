@@ -22,6 +22,10 @@ Micro services in Rust
 
 - [ ] [lockbud](https://github.com/BurtonQin/lockbud) - dead lock detection
 
-## Books
+## Nice Docs
 
-- [ ] [Rust Book Abridged](https://jasonwalton.ca/rust-book-abridged/) - condensed version of The Rust Programming Language
+- [concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust)
+
+## Nice Books
+
+- [Rust Book Abridged](https://jasonwalton.ca/rust-book-abridged/) - condensed version of The Rust Programming Language
