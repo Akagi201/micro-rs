@@ -4,19 +4,27 @@
 
 Micro services in Rust
 
-## Features
+## OpenAPI
 
-- [ ] Monorepo - Sharing code between microservies
-- [ ] [tokio](https://tokio.rs/) - async runtime
+- [ ] [Axum](https://github.com/tokio-rs/axum) - web framework
+- [ ] [utoipa](https://github.com/juhaku/utoipa) - auto generated openapi documentation
+
+## GRPC
+
 - [ ] [tonic](https://github.com/hyperium/tonic) - grpc framework
-- [ ] [sqlx](https://github.com/launchbadge/sqlx) - sql toolkit
-- [ ] [time](https://github.com/time-rs/time) - time handling
-- [ ] [tracing](https://github.com/tokio-rs/tracing) - tracing and log
 
-## Libs
+## OpenRPC
+
+TODO
+
+## Common Libs
 
 - [ ] [shadow-rs](https://github.com/baoyachi/shadow-rs) - build time information
 - [ ] [serde_with](https://github.com/jonasbb/serde_with) - serde helpers
+- [ ] [tokio](https://tokio.rs/) - async runtime
+- [ ] [time](https://github.com/time-rs/time) - time handling
+- [ ] [tracing](https://github.com/tokio-rs/tracing) - tracing and log
+- [ ] [SeaOrm](https://github.com/SeaQL/sea-orm) - db orm
 
 ## Static Analysis
 
