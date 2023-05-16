@@ -25,10 +25,21 @@ TODO
 - [ ] [time](https://github.com/time-rs/time) - time handling
 - [ ] [tracing](https://github.com/tokio-rs/tracing) - tracing and log
 - [ ] [SeaOrm](https://github.com/SeaQL/sea-orm) - db orm
+- [ ] [tabled](https://github.com/zhiburt/tabled) - pretty print
 
 ## Static Analysis
 
 - [ ] [lockbud](https://github.com/BurtonQin/lockbud) - dead lock detection
+- [ ] <https://github.com/RalfJung/cargo-careful> - extra checks
+
+## Tools
+
+- [taplo](https://github.com/tamasfe/taplo) - toml toolkit
+- [shuttle-rs](https://docs.shuttle.rs/) - devops
+
+## Infras
+
+- [quickwit](https://github.com/quickwit-oss/quickwit) - tracing
 
 ## Nice Docs
 
