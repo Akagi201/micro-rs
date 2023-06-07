@@ -44,7 +44,10 @@ TODO
 ## Nice Docs
 
 - [concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust)
+- [axum demo tutor](https://github.com/joelparkerhenderson/demo-rust-axum)
 
 ## Nice Books
 
 - [Rust Book Abridged](https://jasonwalton.ca/rust-book-abridged/) - condensed version of The Rust Programming Language
+- [Rust on Nails](https://rust-on-nails.com/) - Full stack Rust book
+- [The Rustonomicon](https://doc.rust-lang.org/nomicon/intro.html) - Advanced Rust Programming
