@@ -26,6 +26,7 @@ TODO
 - [ ] [tracing](https://github.com/tokio-rs/tracing) - tracing and log
 - [ ] [SeaOrm](https://github.com/SeaQL/sea-orm) - db orm
 - [ ] [tabled](https://github.com/zhiburt/tabled) - pretty print
+- [ ] [shadow-rs](https://github.com/baoyachi/shadow-rs) - build info
 
 ## Static Analysis
 
@@ -45,6 +46,9 @@ TODO
 
 - [concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust)
 - [axum demo tutor](https://github.com/joelparkerhenderson/demo-rust-axum)
+- [Lifetime Kata](https://tfpk.github.io/lifetimekata/)
+- [Macro kata](https://tfpk.github.io/macrokata/)
+- [proc macro workshop](https://github.com/dtolnay/proc-macro-workshop)
 
 ## Nice Books
 
