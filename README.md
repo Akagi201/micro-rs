@@ -27,6 +27,9 @@ TODO
 - [ ] [SeaOrm](https://github.com/SeaQL/sea-orm) - db orm
 - [ ] [tabled](https://github.com/zhiburt/tabled) - pretty print
 - [ ] [shadow-rs](https://github.com/baoyachi/shadow-rs) - build info
+- [ ] [sysinfo](https://github.com/GuillaumeGomez/sysinfo) - system cpu/mem info
+- [ ] [sentry](https://github.com/getsentry/sentry-rust) - sentry profiling
+- [ ] [flamegraph](https://github.com/flamegraph-rs/flamegraph) - flame graph
 
 ## Static Analysis
 
@@ -62,3 +65,4 @@ TODO
 - [Rust Atomics and Locks](https://marabos.nl/atomics/) - Rust Atomics and Locks
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html) - Writing Interpreters in Rust: a Guide
 - [Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_1.html) - Easy Rust and some best practice.
+- [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html) - The Rust Performance Book
