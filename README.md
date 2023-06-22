@@ -61,3 +61,4 @@ TODO
 - [Google Comprehensive Rust](https://google.github.io/comprehensive-rust/) - Google Comprehensive Rust
 - [Rust Atomics and Locks](https://marabos.nl/atomics/) - Rust Atomics and Locks
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html) - Writing Interpreters in Rust: a Guide
+- [Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_1.html) - Easy Rust and some best practice.
