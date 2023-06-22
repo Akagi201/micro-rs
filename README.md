@@ -49,6 +49,8 @@ TODO
 - [Lifetime Kata](https://tfpk.github.io/lifetimekata/)
 - [Macro kata](https://tfpk.github.io/macrokata/)
 - [proc macro workshop](https://github.com/dtolnay/proc-macro-workshop)
+- [modern rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
+- [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
 ## Nice Books
 
@@ -56,3 +58,6 @@ TODO
 - [Rust on Nails](https://rust-on-nails.com/) - Full stack Rust book
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/index.html) - The Dark Arts of Advanced and Unsafe Rust Programming
 - [Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html) - The Little Book of Rust Macros
+- [Google Comprehensive Rust](https://google.github.io/comprehensive-rust/) - Google Comprehensive Rust
+- [Rust Atomics and Locks](https://marabos.nl/atomics/) - Rust Atomics and Locks
+- [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html) - Writing Interpreters in Rust: a Guide
