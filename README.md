@@ -30,6 +30,7 @@ TODO
 - [ ] [sysinfo](https://github.com/GuillaumeGomez/sysinfo) - system cpu/mem info
 - [ ] [sentry](https://github.com/getsentry/sentry-rust) - sentry profiling
 - [ ] [flamegraph](https://github.com/flamegraph-rs/flamegraph) - flame graph
+- [ ] [](https://docs.rs/num-traits/latest/num_traits/) - num traits for generic ma
 
 ## Static Analysis
 
@@ -66,3 +67,5 @@ TODO
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html) - Writing Interpreters in Rust: a Guide
 - [Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_1.html) - Easy Rust and some best practice.
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html) - The Rust Performance Book
+- <https://github.com/m-ou-se/rust-atomics-and-locks>
+- <https://marabos.nl/atomics/>
