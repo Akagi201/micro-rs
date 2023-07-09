@@ -69,3 +69,4 @@ TODO
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html) - The Rust Performance Book
 - <https://github.com/m-ou-se/rust-atomics-and-locks>
 - <https://marabos.nl/atomics/>
+- <https://github.com/rustcc/Rust_Atomics_and_Locks>
