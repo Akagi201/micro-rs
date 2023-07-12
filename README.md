@@ -30,7 +30,9 @@ TODO
 - [ ] [sysinfo](https://github.com/GuillaumeGomez/sysinfo) - system cpu/mem info
 - [ ] [sentry](https://github.com/getsentry/sentry-rust) - sentry profiling
 - [ ] [flamegraph](https://github.com/flamegraph-rs/flamegraph) - flame graph
-- [ ] [](https://docs.rs/num-traits/latest/num_traits/) - num traits for generic ma
+- [ ] [num_traits](https://docs.rs/num-traits/latest/num_traits/) - num traits for generic math
+- [ ] [dashmap](https://docs.rs/dashmap/latest/dashmap/) - concurrent hashmap
+- [ ] [once_cell](https://github.com/matklad/once_cell) - lazy static without macros
 
 ## Static Analysis
 
