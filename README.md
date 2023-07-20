@@ -33,6 +33,7 @@ TODO
 - [ ] [num_traits](https://docs.rs/num-traits/latest/num_traits/) - num traits for generic math
 - [ ] [dashmap](https://docs.rs/dashmap/latest/dashmap/) - concurrent hashmap
 - [ ] [once_cell](https://github.com/matklad/once_cell) - lazy static without macros
+- [ ] [charming](https://github.com/yuankunzhang/charming) - visualization
 
 ## Static Analysis
 
@@ -72,3 +73,4 @@ TODO
 - <https://github.com/m-ou-se/rust-atomics-and-locks>
 - <https://marabos.nl/atomics/>
 - <https://github.com/rustcc/Rust_Atomics_and_Locks>
+- <https://quinedot.github.io/rust-learning/lifetime-intuition.html>
