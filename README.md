@@ -34,6 +34,10 @@ TODO
 - [ ] [dashmap](https://docs.rs/dashmap/latest/dashmap/) - concurrent hashmap
 - [ ] [once_cell](https://github.com/matklad/once_cell) - lazy static without macros
 - [ ] [charming](https://github.com/yuankunzhang/charming) - visualization
+- [ ] [auto_impl](https://github.com/auto-impl-rs/auto_impl) - Automatically implement traits for common smart pointers
+- [ ] [bytes](https://docs.rs/bytes/latest/bytes/)
+- [ ] [async-trait](https://github.com/dtolnay/async-trait)
+- [ ] [cacache](https://github.com/zkat/cacache-rs) - disc cache
 
 ## Static Analysis
 
@@ -74,3 +78,4 @@ TODO
 - <https://marabos.nl/atomics/>
 - <https://github.com/rustcc/Rust_Atomics_and_Locks>
 - <https://quinedot.github.io/rust-learning/lifetime-intuition.html>
+- <https://bheisler.github.io/criterion.rs/book/index.html>
