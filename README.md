@@ -48,6 +48,7 @@ TODO
 
 - [taplo](https://github.com/tamasfe/taplo) - toml toolkit
 - [shuttle-rs](https://docs.shuttle.rs/) - devops
+- [squawk](https://github.com/sbdchd/squawk) - postgres sql linter
 
 ## Infras
 
