@@ -50,6 +50,7 @@ TODO
 - [shuttle-rs](https://docs.shuttle.rs/) - devops
 - [squawk](https://github.com/sbdchd/squawk) - postgres sql linter
 - [cross](https://github.com/cross-rs/cross) - cross build tool
+- [kani](https://github.com/model-checking/kani) - unsafe rust model checker
 
 ## Infras
 
