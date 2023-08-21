@@ -38,6 +38,8 @@ TODO
 - [ ] [bytes](https://docs.rs/bytes/latest/bytes/)
 - [ ] [async-trait](https://github.com/dtolnay/async-trait)
 - [ ] [cacache](https://github.com/zkat/cacache-rs) - disc cache
+- [ ] [r2d2](https://github.com/sfackler/r2d2) - db generic connection pool
+- [ ] [redis](https://github.com/redis-rs/redis-rs) - redis client
 
 ## Static Analysis
 
