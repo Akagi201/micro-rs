@@ -40,6 +40,12 @@ TODO
 - [ ] [cacache](https://github.com/zkat/cacache-rs) - disc cache
 - [ ] [r2d2](https://github.com/sfackler/r2d2) - db generic connection pool
 - [ ] [redis](https://github.com/redis-rs/redis-rs) - redis client
+- [ ] [async-compat](https://github.com/smol-rs/async-compat) - Compatibility adapter between tokio and futures
+- [ ] [autometrics](https://github.com/autometrics-dev/autometrics-rs) - metrics and tracing
+- [ ] [lazy_format](https://docs.rs/lazy_format) - lazy formatting
+- [ ] [convi](https://github.com/dpc/convi) - safe conversion
+- [ ] [tap](https://docs.rs/tap/latest/tap/) - position pipeline
+- [ ] [resiter](https://docs.rs/resiter/latest/resiter/) - iterator helper
 
 ## Static Analysis
 
