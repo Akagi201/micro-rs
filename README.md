@@ -59,6 +59,9 @@ TODO
 - [squawk](https://github.com/sbdchd/squawk) - postgres sql linter
 - [cross](https://github.com/cross-rs/cross) - cross build tool
 - [kani](https://github.com/model-checking/kani) - unsafe rust model checker
+- [cargo-cleanall](https://github.com/LeSnake04/cargo-cleanall) - clean all cargo build artifacts
+- [cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) - another tool for clean all cargo build artifacts
+- [kondo](https://github.com/tbillington/kondo) - clean up node_modules, target
 
 ## Infras
 
