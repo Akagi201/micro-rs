@@ -46,6 +46,13 @@ TODO
 - [ ] [convi](https://github.com/dpc/convi) - safe conversion
 - [ ] [tap](https://docs.rs/tap/latest/tap/) - position pipeline
 - [ ] [resiter](https://docs.rs/resiter/latest/resiter/) - iterator helper
+- [ ] [pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions) - pretty assertions
+- [ ] [trybuild](https://github.com/dtolnay/trybuild) - try build in tests
+- [ ] [insta](https://github.com/mitsuhiko/insta) - snapshot testing
+- [ ] [criterion](https://github.com/bheisler/criterion.rs) - benchmark testing
+- [ ] [divan](https://github.com/nvzqz/divan) - benchmark testing
+- [ ] [arbitrary](https://github.com/rust-fuzz/arbitrary) - construct arbitrary instances of a type
+- [ ] [assert_fs](https://github.com/assert-rs/assert_fs) - Filesystem fixtures and assertions for testing
 
 ## Static Analysis
 
@@ -62,6 +69,10 @@ TODO
 - [cargo-cleanall](https://github.com/LeSnake04/cargo-cleanall) - clean all cargo build artifacts
 - [cargo-clean-all](https://github.com/dnlmlr/cargo-clean-all) - another tool for clean all cargo build artifacts
 - [kondo](https://github.com/tbillington/kondo) - clean up node_modules, target
+- [nextest](https://github.com/nextest-rs/nextest) - next-generation test runner
+- [cargo-release](https://github.com/crate-ci/cargo-release) - release tool
+- [git-cliff](https://github.com/orhun/git-cliff) - changelog generator
+- [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - cargo deny
 
 ## Infras
 
