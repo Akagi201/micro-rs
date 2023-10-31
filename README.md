@@ -53,6 +53,7 @@ TODO
 - [ ] [divan](https://github.com/nvzqz/divan) - benchmark testing
 - [ ] [arbitrary](https://github.com/rust-fuzz/arbitrary) - construct arbitrary instances of a type
 - [ ] [assert_fs](https://github.com/assert-rs/assert_fs) - Filesystem fixtures and assertions for testing
+- [ ] [no-panics](https://github.com/dtolnay/no-panic) - prove no panics in build phase
 
 ## Static Analysis
 
