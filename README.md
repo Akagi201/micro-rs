@@ -89,6 +89,10 @@ TODO
 - [modern rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 
+## Nice videos
+
+- [crust of rust](https://www.youtube.com/@jonhoo/videos)
+
 ## Nice Books
 
 - [Rust Book Abridged](https://jasonwalton.ca/rust-book-abridged/) - condensed version of The Rust Programming Language
