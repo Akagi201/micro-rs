@@ -109,3 +109,5 @@ TODO
 - <https://github.com/rustcc/Rust_Atomics_and_Locks>
 - <https://quinedot.github.io/rust-learning/lifetime-intuition.html>
 - <https://bheisler.github.io/criterion.rs/book/index.html>
+- <https://github.com/skerkour/black-hat-rust>
+- <https://github.com/wiseaidev/dark-web-rust>
