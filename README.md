@@ -54,6 +54,33 @@ TODO
 - [ ] [arbitrary](https://github.com/rust-fuzz/arbitrary) - construct arbitrary instances of a type
 - [ ] [assert_fs](https://github.com/assert-rs/assert_fs) - Filesystem fixtures and assertions for testing
 - [ ] [no-panics](https://github.com/dtolnay/no-panic) - prove no panics in build phase
+- [ ] [educe](https://github.com/magiclen/educe) - procedural macros to help you implement Rust build-int traits quickly.
+- [ ] [validator](https://github.com/Keats/validator) - struct field validation
+- [ ] [tap](https://github.com/myrrlyn/tap) - tapping values in method chains
+- [ ] [lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - macro for defining lazy evaluated static variables
+- [ ] [joinery](https://github.com/Lucretiel/joinery) - join iterables with a separator
+- [ ] [chrono](https://github.com/chronotope/chrono) - time handling
+- [ ] [time](https://github.com/time-rs/time) - time handling
+- [ ] [pin-project](https://github.com/taiki-e/pin-project) - pin projection
+- [ ] [soa-derive](https://github.com/lumol-org/soa-derive) - Transform AOS to SOA (Struct of Arrays)
+- [ ] [derive_more](https://github.com/JelteF/derive_more) - derive traits helper
+- [ ] [rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - generate struct builder
+- [ ] [fakeit](https://github.com/PumpkinSeed/fakeit) - gake data generator
+- [ ] [proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing
+- [ ] [trybuild](https://github.com/dtolnay/trybuild) - Test that certain code variants do not compile.
+- [ ] [embassy](https://github.com/embassy-rs/embassy) - async next-generation framework for embedded applications
+- [ ] [postcard](https://github.com/jamesmunns/postcard) - A serde flavor that's tailored for targets have less ram than our dev machines have cache.
+- [ ] [slotmap](https://github.com/orlp/slotmap) - map with typed, unique keys
+- [ ] [mockall](https://github.com/asomers/mockall) - mock object
+- [ ] [strum](https://github.com/Peternator7/strum) - enum strings and such
+- [ ] [inherent](https://github.com/dtolnay/inherent) - make trait methods callable without the trait in scope
+- [ ] [rust-smallvec](https://github.com/servo/rust-smallvec) - Small vector
+- [ ] [smallstr](https://github.com/murarth/smallstr) - small str
+- [ ] [compact_str](https://github.com/ParkMyCar/compact_str) - small str on the stack
+- [ ] [bstr](https://github.com/BurntSushi/bstr) - byte string
+- [ ] [itertools](https://github.com/rust-itertools/itertools) - iterator helpers
+- [ ] [camino](https://github.com/camino-rs/camino) - Like Rust's std::path::Path, but UTF-8
+- [ ] [bytemuck](https://github.com/Lokathor/bytemuck) - Cast bytes to types safely
 
 ## Static Analysis
 
@@ -88,6 +115,7 @@ TODO
 - [proc macro workshop](https://github.com/dtolnay/proc-macro-workshop)
 - [modern rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
+- [Rust ecosystem](https://blessed.rs/crates)
 
 ## Nice videos
 
