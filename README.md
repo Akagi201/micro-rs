@@ -81,6 +81,7 @@ TODO
 - [ ] [itertools](https://github.com/rust-itertools/itertools) - iterator helpers
 - [ ] [camino](https://github.com/camino-rs/camino) - Like Rust's std::path::Path, but UTF-8
 - [ ] [bytemuck](https://github.com/Lokathor/bytemuck) - Cast bytes to types safely
+- [ ] [nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees
 
 ## Static Analysis
 
