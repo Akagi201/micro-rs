@@ -105,6 +105,7 @@ TODO
 - [cargo-release](https://github.com/crate-ci/cargo-release) - release tool
 - [git-cliff](https://github.com/orhun/git-cliff) - changelog generator
 - [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - cargo deny
+- [mles-rs](https://github.com/jq-rs/mles-rs) - message queue
 
 ## Infras
 
