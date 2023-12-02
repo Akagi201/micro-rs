@@ -82,6 +82,9 @@ TODO
 - [ ] [camino](https://github.com/camino-rs/camino) - Like Rust's std::path::Path, but UTF-8
 - [ ] [bytemuck](https://github.com/Lokathor/bytemuck) - Cast bytes to types safely
 - [ ] [nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees
+- [ ] [job_scheduler](https://github.com/BlackDex/job_scheduler) - Job scheduler
+- [ ] [clokwerk](https://github.com/mdsherry/clokwerk) - Job scheduler
+- [ ] [delay-timer](https://github.com/BinChengZhao/delay-timer) - Job scheduler based on time wheel algorithm
 
 ## Static Analysis
 
