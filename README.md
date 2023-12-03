@@ -144,3 +144,4 @@ TODO
 - <https://bheisler.github.io/criterion.rs/book/index.html>
 - <https://github.com/skerkour/black-hat-rust>
 - <https://github.com/wiseaidev/dark-web-rust>
+- <https://rustwasm.github.io/book/introduction.html>
