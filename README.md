@@ -85,6 +85,9 @@ TODO
 - [ ] [job_scheduler](https://github.com/BlackDex/job_scheduler) - Job scheduler
 - [ ] [clokwerk](https://github.com/mdsherry/clokwerk) - Job scheduler
 - [ ] [delay-timer](https://github.com/BinChengZhao/delay-timer) - Job scheduler based on time wheel algorithm
+- [ ] [enum_delegate](https://gitlab.com/dawn_app/enum_delegate) - easily replace dynamic dispatch with an enum.
+- [ ] [auto_enums](https://github.com/taiki-e/auto_enums) - allow multiple return types by automatically generated enum
+- [ ] [scopeguard](https://github.com/bluss/scopeguard) - like defer in golang
 
 ## Static Analysis
 
