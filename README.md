@@ -88,6 +88,7 @@ TODO
 - [ ] [enum_delegate](https://gitlab.com/dawn_app/enum_delegate) - easily replace dynamic dispatch with an enum.
 - [ ] [auto_enums](https://github.com/taiki-e/auto_enums) - allow multiple return types by automatically generated enum
 - [ ] [scopeguard](https://github.com/bluss/scopeguard) - like defer in golang
+- [ ] [iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - IPC
 
 ## Static Analysis
 
@@ -109,6 +110,7 @@ TODO
 - [git-cliff](https://github.com/orhun/git-cliff) - changelog generator
 - [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - cargo deny
 - [mles-rs](https://github.com/jq-rs/mles-rs) - message queue
+- [cargo-multivers](https://github.com/ronnychevalier/cargo-multivers) - build multiple versions of the same binary, each with a different CPU features set, merged into a single portable optimized binary.
 
 ## Infras
 
