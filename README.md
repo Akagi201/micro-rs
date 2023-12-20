@@ -89,6 +89,7 @@ TODO
 - [ ] [auto_enums](https://github.com/taiki-e/auto_enums) - allow multiple return types by automatically generated enum
 - [ ] [scopeguard](https://github.com/bluss/scopeguard) - like defer in golang
 - [ ] [iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - IPC
+- [ ] [ratatui](https://github.com/ratatui-org/ratatui) - TUI
 
 ## Static Analysis
 
