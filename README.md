@@ -90,6 +90,7 @@ TODO
 - [ ] [scopeguard](https://github.com/bluss/scopeguard) - like defer in golang
 - [ ] [iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - IPC
 - [ ] [ratatui](https://github.com/ratatui-org/ratatui) - TUI
+- [ ] [downcast-rs](https://github.com/marcianx/downcast-rs) - cast trait objects back to the original concrete types
 
 ## Static Analysis
 
