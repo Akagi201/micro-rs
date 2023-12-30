@@ -92,6 +92,7 @@ TODO
 - [ ] [ratatui](https://github.com/ratatui-org/ratatui) - TUI
 - [ ] [downcast-rs](https://github.com/marcianx/downcast-rs) - cast trait objects back to the original concrete types
 - [ ] [compact_str](https://github.com/ParkMyCar/compact_str) - drop in replacement of String.
+- [ ] [uint](https://github.com/recmo/uint) - Uint crate with generics
 
 ## Static Analysis
 
