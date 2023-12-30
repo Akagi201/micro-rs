@@ -93,6 +93,8 @@ TODO
 - [ ] [downcast-rs](https://github.com/marcianx/downcast-rs) - cast trait objects back to the original concrete types
 - [ ] [compact_str](https://github.com/ParkMyCar/compact_str) - drop in replacement of String.
 - [ ] [uint](https://github.com/recmo/uint) - Uint crate with generics
+- [ ] [ryu](https://github.com/dtolnay/ryu) - float to string conversion
+- [ ] [itoa](https://github.com/dtolnay/itoa) - integer to string conversion
 
 ## Static Analysis
 
