@@ -96,6 +96,11 @@ TODO
 - [ ] [ryu](https://github.com/dtolnay/ryu) - float to string conversion
 - [ ] [itoa](https://github.com/dtolnay/itoa) - integer to string conversion
 
+## AI
+
+- [burn](https://github.com/tracel-ai/burn) - Deep Learning Framework
+- [candle](https://github.com/huggingface/candle) - Minimalist ML framework
+
 ## Static Analysis
 
 - [ ] [lockbud](https://github.com/BurtonQin/lockbud) - dead lock detection
