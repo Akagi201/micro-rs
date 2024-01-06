@@ -64,7 +64,7 @@ TODO
 - [ ] [pin-project](https://github.com/taiki-e/pin-project) - pin projection
 - [ ] [soa-derive](https://github.com/lumol-org/soa-derive) - Transform AOS to SOA (Struct of Arrays)
 - [ ] [derive_more](https://github.com/JelteF/derive_more) - derive traits helper
-- [ ] [rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - generate struct builder
+- [ ] [rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - generate struct builder, builder pattern
 - [ ] [fakeit](https://github.com/PumpkinSeed/fakeit) - gake data generator
 - [ ] [proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing
 - [ ] [trybuild](https://github.com/dtolnay/trybuild) - Test that certain code variants do not compile.
@@ -95,6 +95,10 @@ TODO
 - [ ] [uint](https://github.com/recmo/uint) - Uint crate with generics
 - [ ] [ryu](https://github.com/dtolnay/ryu) - float to string conversion
 - [ ] [itoa](https://github.com/dtolnay/itoa) - integer to string conversion
+- [ ] [winnow](https://github.com/winnow-rs/winnow) - write parser by hand.
+- [ ] [parse-display](https://github.com/frozenlib/parse-display) - derive macro, Display and FromStr
+- [ ] [miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
+- [ ] [ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 
 ## AI
 
@@ -161,3 +165,4 @@ TODO
 - <https://github.com/skerkour/black-hat-rust>
 - <https://github.com/wiseaidev/dark-web-rust>
 - <https://rustwasm.github.io/book/introduction.html>
+- <https://rust-lang.github.io/wg-async/>
