@@ -127,6 +127,7 @@ TODO
 - [mles-rs](https://github.com/jq-rs/mles-rs) - message queue
 - [cargo-multivers](https://github.com/ronnychevalier/cargo-multivers) - build multiple versions of the same binary, each with a different CPU features set, merged into a single portable optimized binary.
 - [cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - check unused features.
+- [cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache
 
 ## Infras
 
