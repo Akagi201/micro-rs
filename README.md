@@ -99,6 +99,8 @@ TODO
 - [ ] [parse-display](https://github.com/frozenlib/parse-display) - derive macro, Display and FromStr
 - [ ] [miette](https://github.com/zkat/miette) - Fancy extension for std::error::Error with pretty, detailed diagnostic printing.
 - [ ] [ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
+- [ ] [nolife](https://github.com/dureuill/nolife) - construct a struct that contain reference without a lifetime.
+- [ ] [abi_stable](https://github.com/rodrimati1992/abi_stable_crates/) - rust plugin system
 
 ## AI
 
