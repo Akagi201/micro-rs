@@ -152,6 +152,7 @@ TODO
 
 ## Nice Books
 
+- [The Little Book of Rust Books](https://lborb.github.io/book/) - all rust books
 - [Rust Book Abridged](https://jasonwalton.ca/rust-book-abridged/) - condensed version of The Rust Programming Language
 - [Rust on Nails](https://rust-on-nails.com/) - Full stack Rust book
 - [The Rustonomicon](https://doc.rust-lang.org/nomicon/index.html) - The Dark Arts of Advanced and Unsafe Rust Programming
