@@ -131,6 +131,8 @@ TODO
 - [cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - check unused features.
 - [cargo-cache](https://github.com/matthiaskrgr/cargo-cache) - manage cargo cache
 - [cargo-valgrind](https://github.com/jfrimmel/cargo-valgrind) - run valgrind with rust
+- [cargo-dist](https://github.com/axodotdev/cargo-dist) - release your binary to github release
+- [firedbg](https://firedbg.sea-ql.org/) - Time Travel Visual Debugger for Rust
 
 ## Infras
 
