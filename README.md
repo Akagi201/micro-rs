@@ -133,6 +133,7 @@ TODO
 - [cargo-valgrind](https://github.com/jfrimmel/cargo-valgrind) - run valgrind with rust
 - [cargo-dist](https://github.com/axodotdev/cargo-dist) - release your binary to github release
 - [firedbg](https://firedbg.sea-ql.org/) - Time Travel Visual Debugger for Rust
+- [rudric](https://github.com/mike-lloyd03/rudric) - .env secret encryption tool
 
 ## Infras
 
