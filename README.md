@@ -101,6 +101,7 @@ TODO
 - [ ] [ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [ ] [nolife](https://github.com/dureuill/nolife) - construct a struct that contain reference without a lifetime.
 - [ ] [abi_stable](https://github.com/rodrimati1992/abi_stable_crates/) - rust plugin system
+- [ ] [RustFFT](https://github.com/ejmahler/RustFFT) - SIMD FFT
 
 ## AI
 
@@ -134,6 +135,7 @@ TODO
 - [cargo-dist](https://github.com/axodotdev/cargo-dist) - release your binary to github release
 - [firedbg](https://firedbg.sea-ql.org/) - Time Travel Visual Debugger for Rust
 - [rudric](https://github.com/mike-lloyd03/rudric) - .env secret encryption tool
+- [rustviz](https://github.com/rustviz/rustviz) - visualize rust ownership and borrowing
 
 ## Infras
 
