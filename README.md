@@ -136,6 +136,7 @@ TODO
 - [firedbg](https://firedbg.sea-ql.org/) - Time Travel Visual Debugger for Rust
 - [rudric](https://github.com/mike-lloyd03/rudric) - .env secret encryption tool
 - [rustviz](https://github.com/rustviz/rustviz) - visualize rust ownership and borrowing
+- [hyperqueue](https://github.com/it4innovations/hyperqueue) - job scheduler
 
 ## Infras
 
