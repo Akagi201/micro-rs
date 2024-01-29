@@ -108,6 +108,10 @@ TODO
 - [burn](https://github.com/tracel-ai/burn) - Deep Learning Framework
 - [candle](https://github.com/huggingface/candle) - Minimalist ML framework
 
+## ZK
+
+- [lambdaworks](https://github.com/lambdaclass/lambdaworks) - zk crypto and math
+
 ## Static Analysis
 
 - [ ] [lockbud](https://github.com/BurtonQin/lockbud) - dead lock detection
