@@ -102,6 +102,7 @@ TODO
 - [ ] [nolife](https://github.com/dureuill/nolife) - construct a struct that contain reference without a lifetime.
 - [ ] [abi_stable](https://github.com/rodrimati1992/abi_stable_crates/) - rust plugin system
 - [ ] [RustFFT](https://github.com/ejmahler/RustFFT) - SIMD FFT
+- [ ] [ferrilab](https://github.com/ferrilab/ferrilab) - bitvec related crates
 
 ## AI
 
