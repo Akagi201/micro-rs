@@ -103,6 +103,7 @@ TODO
 - [ ] [abi_stable](https://github.com/rodrimati1992/abi_stable_crates/) - rust plugin system
 - [ ] [RustFFT](https://github.com/ejmahler/RustFFT) - SIMD FFT
 - [ ] [ferrilab](https://github.com/ferrilab/ferrilab) - bitvec related crates
+- [ ] [rug](https://gitlab.com/tspiteri/rug) - integers and floating-point numbers with arbitrary precision
 
 ## AI
 
