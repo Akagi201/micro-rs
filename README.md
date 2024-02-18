@@ -62,7 +62,9 @@ TODO
 - [ ] [chrono](https://github.com/chronotope/chrono) - time handling
 - [ ] [time](https://github.com/time-rs/time) - time handling
 - [ ] [pin-project](https://github.com/taiki-e/pin-project) - pin projection
+- [ ] [pinned-init](https://github.com/Rust-for-Linux/pinned-init) - Library facilitating safe pinned initialization
 - [ ] [soa-derive](https://github.com/lumol-org/soa-derive) - Transform AOS to SOA (Struct of Arrays)
+- [ ] [soapy](https://github.com/tim-harding/soapy/) - another SOA macro
 - [ ] [derive_more](https://github.com/JelteF/derive_more) - derive traits helper
 - [ ] [rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - generate struct builder, builder pattern
 - [ ] [fakeit](https://github.com/PumpkinSeed/fakeit) - gake data generator
@@ -143,6 +145,10 @@ TODO
 - [rudric](https://github.com/mike-lloyd03/rudric) - .env secret encryption tool
 - [rustviz](https://github.com/rustviz/rustviz) - visualize rust ownership and borrowing
 - [hyperqueue](https://github.com/it4innovations/hyperqueue) - job scheduler
+- [cargo-dylint](https://github.com/trailofbits/dylint) - dynamic lint, another clippy
+- [zerocopy](https://github.com/google/zerocopy) - unsafe zero copy
+- [presser](https://github.com/EmbarkStudios/presser) - unsafe copy strucutre data to raw buffer
+- [bytemuck](https://github.com/Lokathor/bytemuck) - unsafe mucking around with piles of bytes
 
 ## Infras
 
