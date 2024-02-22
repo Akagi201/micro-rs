@@ -106,6 +106,7 @@ TODO
 - [ ] [RustFFT](https://github.com/ejmahler/RustFFT) - SIMD FFT
 - [ ] [ferrilab](https://github.com/ferrilab/ferrilab) - bitvec related crates
 - [ ] [rug](https://gitlab.com/tspiteri/rug) - integers and floating-point numbers with arbitrary precision
+- [ ] [cve-rs](https://github.com/Speykious/cve-rs) - memory vulnerabilities
 
 ## AI
 
