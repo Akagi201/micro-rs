@@ -107,6 +107,7 @@ TODO
 - [ ] [ferrilab](https://github.com/ferrilab/ferrilab) - bitvec related crates
 - [ ] [rug](https://gitlab.com/tspiteri/rug) - integers and floating-point numbers with arbitrary precision
 - [ ] [cve-rs](https://github.com/Speykious/cve-rs) - memory vulnerabilities
+- [ ] [thread-manager](https://github.com/syn-chromatic/thread-manager-rs) - thread manager
 
 ## AI
 
@@ -149,7 +150,6 @@ TODO
 - [cargo-dylint](https://github.com/trailofbits/dylint) - dynamic lint, another clippy
 - [zerocopy](https://github.com/google/zerocopy) - unsafe zero copy
 - [presser](https://github.com/EmbarkStudios/presser) - unsafe copy strucutre data to raw buffer
-- [bytemuck](https://github.com/Lokathor/bytemuck) - unsafe mucking around with piles of bytes
 
 ## Infras
 
