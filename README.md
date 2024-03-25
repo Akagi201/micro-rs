@@ -108,6 +108,10 @@ TODO
 - [ ] [rug](https://gitlab.com/tspiteri/rug) - integers and floating-point numbers with arbitrary precision
 - [ ] [cve-rs](https://github.com/Speykious/cve-rs) - memory vulnerabilities
 - [ ] [thread-manager](https://github.com/syn-chromatic/thread-manager-rs) - thread manager
+- [ ] [happylock](https://crates.io/crates/happylock) - lock free mutex
+- [ ] [listeners](https://github.com/GyulyVGC/listeners) - get processes listening on a TCP port
+- [ ] [testresult](https://github.com/wiktor-k/testresult) - anyhow for tests
+- [ ] [fastbloom](https://github.com/tomtomwombat/fastbloom/) - bloom filter
 
 ## AI
 
