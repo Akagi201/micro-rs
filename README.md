@@ -154,6 +154,7 @@ TODO
 - [cargo-dylint](https://github.com/trailofbits/dylint) - dynamic lint, another clippy
 - [zerocopy](https://github.com/google/zerocopy) - unsafe zero copy
 - [presser](https://github.com/EmbarkStudios/presser) - unsafe copy strucutre data to raw buffer
+- [release-plz](https://github.com/MarcoIeni/release-plz) - release github action
 
 ## Infras
 
