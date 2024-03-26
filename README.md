@@ -112,6 +112,8 @@ TODO
 - [ ] [listeners](https://github.com/GyulyVGC/listeners) - get processes listening on a TCP port
 - [ ] [testresult](https://github.com/wiktor-k/testresult) - anyhow for tests
 - [ ] [fastbloom](https://github.com/tomtomwombat/fastbloom/) - bloom filter
+- [ ] [symbolica](https://github.com/benruijl/symbolica) - computer algebra system
+- [ ] [deku](https://github.com/sharksforarms/deku) - bit-level serialization/deserialization implementations for structs and enums
 
 ## AI
 
@@ -196,3 +198,25 @@ TODO
 - <https://github.com/wiseaidev/dark-web-rust>
 - <https://rustwasm.github.io/book/introduction.html>
 - <https://rust-lang.github.io/wg-async/>
+- <https://rust-unofficial.github.io/patterns/>
+
+## Rust design patterns
+
+- <https://cglab.ca/~abeinges/blah/everyone-poops/>
+- <https://smallcultfollowing.com/babysteps/blog/2018/04/16/rust-pattern-rooting-an-rc-handle/>
+- <https://smallcultfollowing.com/babysteps/blog/2018/04/24/rust-pattern-precise-closure-capture-clauses/> is no longer needed. Closures now automatically capture only the fields from the struct that they use
+- <https://smallcultfollowing.com/babysteps/blog/2018/09/02/rust-pattern-iterating-an-over-a-rc-vec-t/>
+- <https://users.rust-lang.org/t/blog-post-series-rust-patterns/20080/10>
+- <https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html>
+- <https://matklad.github.io/2022/11/18/if-a-tree-falls-in-a-forest-does-it-overflow-the-stack.html>
+- <https://ismailmaj.github.io/destructing-trees-safely-and-cheaply>
+- <https://matklad.github.io/2022/05/29/builder-lite.html>
+- <https://matklad.github.io/2022/06/11/caches-in-rust.html>
+- <https://matklad.github.io/2021/07/09/inline-in-rust.html>
+- <https://matklad.github.io/2018/06/04/newtype-index-pattern.html>
+- <https://matklad.github.io/2018/05/24/typed-key-pattern.html>
+- <https://matklad.github.io/2018/05/04/encapsulating-lifetime-of-the-field.html>
+- <https://github.com/rust-unofficial/patterns/issues?q=is%3Aissue+is%3Aopen+label%3AA-pattern+label%3AC-addition>
+- <https://symbolica.io/posts/control_flow_patterns/#block-breaks>
+- <https://ryhl.io/blog/temporary-shared-mutation/>
+- <https://symbolica.io/posts/control_flow_patterns/>
