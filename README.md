@@ -114,6 +114,11 @@ TODO
 - [ ] [fastbloom](https://github.com/tomtomwombat/fastbloom/) - bloom filter
 - [ ] [symbolica](https://github.com/benruijl/symbolica) - computer algebra system
 - [ ] [deku](https://github.com/sharksforarms/deku) - bit-level serialization/deserialization implementations for structs and enums
+- [ ] [profi](https://github.com/lyonsyonii/profi) - multi-threaded profiler
+
+## Framework
+
+* <https://github.com/ntex-rs/ntex> - framework for networking service
 
 ## AI
 
@@ -157,6 +162,7 @@ TODO
 - [zerocopy](https://github.com/google/zerocopy) - unsafe zero copy
 - [presser](https://github.com/EmbarkStudios/presser) - unsafe copy strucutre data to raw buffer
 - [release-plz](https://github.com/MarcoIeni/release-plz) - release github action
+- [cargo-autoinherit](https://github.com/mainmatter/cargo-autoinherit) - auto manage workspace deps
 
 ## Infras
 
@@ -199,6 +205,7 @@ TODO
 - <https://rustwasm.github.io/book/introduction.html>
 - <https://rust-lang.github.io/wg-async/>
 - <https://rust-unofficial.github.io/patterns/>
+- <https://github.com/LukeMathWalker/zero-to-production>
 
 ## Rust design patterns
 
