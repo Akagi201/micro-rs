@@ -115,10 +115,13 @@ TODO
 - [ ] [symbolica](https://github.com/benruijl/symbolica) - computer algebra system
 - [ ] [deku](https://github.com/sharksforarms/deku) - bit-level serialization/deserialization implementations for structs and enums
 - [ ] [profi](https://github.com/lyonsyonii/profi) - multi-threaded profiler
+- [ ] [try-iterator](https://github.com/rodrigocfd/try-iterator) - TryIterator trait
+- [ ] [notify-rust](https://github.com/hoodie/notify-rust) - desktop notification
 
 ## Framework
 
 * <https://github.com/ntex-rs/ntex> - framework for networking service
+* <https://github.com/emanguy/rust-rest> - rest template
 
 ## AI
 
