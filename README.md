@@ -117,6 +117,9 @@ TODO
 - [ ] [profi](https://github.com/lyonsyonii/profi) - multi-threaded profiler
 - [ ] [try-iterator](https://github.com/rodrigocfd/try-iterator) - TryIterator trait
 - [ ] [notify-rust](https://github.com/hoodie/notify-rust) - desktop notification
+- [ ] [strafe](https://gitlab.com/Neek-sss/strafe) - statistics
+- [ ] [kameo](https://github.com/tqwewe/kameo) - actor model on tokio
+- [ ] [xtra](https://github.com/Restioson/xtra) - actor model on any runtime
 
 ## Framework
 
