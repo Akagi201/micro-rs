@@ -169,6 +169,7 @@ TODO
 - [presser](https://github.com/EmbarkStudios/presser) - unsafe copy strucutre data to raw buffer
 - [release-plz](https://github.com/MarcoIeni/release-plz) - release github action
 - [cargo-autoinherit](https://github.com/mainmatter/cargo-autoinherit) - auto manage workspace deps
+- [BugStalker](https://github.com/godzie44/BugStalker/) - Rust debugger for linux
 
 ## Infras
 
