@@ -31,7 +31,7 @@ TODO
 - [ ] [sentry](https://github.com/getsentry/sentry-rust) - sentry profiling
 - [ ] [flamegraph](https://github.com/flamegraph-rs/flamegraph) - flame graph
 - [ ] [num_traits](https://docs.rs/num-traits/latest/num_traits/) - num traits for generic math
-- [ ] [dashmap](https://docs.rs/dashmap/latest/dashmap/) - concurrent hashmap
+- [ ] [dashmap](https://docs.rs/dashmap/latest/dashmap/) - concurrent hashmap, !!may dead lock <https://dev.to/acter/beware-of-the-dashmap-deadlock-lij>
 - [ ] [once_cell](https://github.com/matklad/once_cell) - lazy static without macros
 - [ ] [charming](https://github.com/yuankunzhang/charming) - visualization
 - [ ] [auto_impl](https://github.com/auto-impl-rs/auto_impl) - Automatically implement traits for common smart pointers
@@ -120,6 +120,8 @@ TODO
 - [ ] [strafe](https://gitlab.com/Neek-sss/strafe) - statistics
 - [ ] [kameo](https://github.com/tqwewe/kameo) - actor model on tokio
 - [ ] [xtra](https://github.com/Restioson/xtra) - actor model on any runtime
+- [ ] [eyre](https://github.com/eyre-rs/eyre) - error handling, anyhow fork, better than anyhow
+- [ ] [scc](https://github.com/wvwwvwwv/scalable-concurrent-containers) - concurrent containers, better than dashmap
 
 ## Framework
 
