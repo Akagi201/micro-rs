@@ -128,8 +128,10 @@ TODO
 
 ## Framework
 
-* <https://github.com/ntex-rs/ntex> - framework for networking service
-* <https://github.com/emanguy/rust-rest> - rest template
+- <https://github.com/ntex-rs/ntex> - framework for networking service
+- <https://github.com/emanguy/rust-rest> - rest template
+- <https://github.com/plabayo/rama> - proxy framework
+- <https://github.com/cloudflare/pingora> - proxy framework
 
 ## AI
 
@@ -171,11 +173,12 @@ TODO
 - [hyperqueue](https://github.com/it4innovations/hyperqueue) - job scheduler
 - [cargo-dylint](https://github.com/trailofbits/dylint) - dynamic lint, another clippy
 - [zerocopy](https://github.com/google/zerocopy) - unsafe zero copy
-- [presser](https://github.com/EmbarkStudios/presser) - unsafe copy strucutre data to raw buffer
+- [presser](https://github.com/EmbarkStudios/presser) - unsafe copy structure data to raw buffer
 - [release-plz](https://github.com/MarcoIeni/release-plz) - release github action
 - [cargo-autoinherit](https://github.com/mainmatter/cargo-autoinherit) - auto manage workspace deps
 - [BugStalker](https://github.com/godzie44/BugStalker/) - Rust debugger for linux
 - [portal-tunneler](https://github.com/ThomasMiz/portal-tunneler) - hole punching
+- [rlt](https://github.com/wfxr/rlt) - load testing tui
 
 ## Infras
 
