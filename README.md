@@ -125,6 +125,12 @@ TODO
 - [ ] [eyre](https://github.com/eyre-rs/eyre) - error handling, anyhow fork, better than anyhow
 - [ ] [scc](https://github.com/wvwwvwwv/scalable-concurrent-containers) - concurrent containers, better than dashmap
 - [ ] [wiring](https://github.com/louaykamel/wiring) - async serialization
+- [ ] [nutype](https://github.com/greyblake/nutype) - proc macro that allows adding extra constraints like sanitization and validation
+- [ ] [unfmt](https://github.com/mathematic-inc/unfmt) - pattern matching library that reverses the interpolation process of `format!`.
+- [ ] [enum_dispatch](https://gitlab.com/antonok/enum_dispatch) - transforms your trait objects to static dispatch.
+- [ ] [archspec](https://github.com/prefix-dev/archspec-rs) - detect CPU architecture
+- [ ] [serde-sqlite-jsonb](https://github.com/lovasoa/serde-sqlite-jsonb) - sqlit jsonb serde
+- [ ] [futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 
 ## Framework
 
@@ -179,6 +185,10 @@ TODO
 - [BugStalker](https://github.com/godzie44/BugStalker/) - Rust debugger for linux
 - [portal-tunneler](https://github.com/ThomasMiz/portal-tunneler) - hole punching
 - [rlt](https://github.com/wfxr/rlt) - load testing tui
+
+## Rust Apps
+
+- <https://github.com/GyulyVGC/sniffnet>
 
 ## Infras
 
