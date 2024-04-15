@@ -131,6 +131,7 @@ TODO
 - [ ] [archspec](https://github.com/prefix-dev/archspec-rs) - detect CPU architecture
 - [ ] [serde-sqlite-jsonb](https://github.com/lovasoa/serde-sqlite-jsonb) - sqlit jsonb serde
 - [ ] [futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
+- [ ] [shiva](https://github.com/igumnoff/shiva) - generate and parse many type of documents
 
 ## Framework
 
@@ -253,3 +254,7 @@ TODO
 - <https://symbolica.io/posts/control_flow_patterns/#block-breaks>
 - <https://ryhl.io/blog/temporary-shared-mutation/>
 - <https://symbolica.io/posts/control_flow_patterns/>
+
+## Rust powered projects
+
+- <https://github.com/freedit-org/freedit> - rust forum
