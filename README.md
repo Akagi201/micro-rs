@@ -132,6 +132,7 @@ TODO
 - [ ] [serde-sqlite-jsonb](https://github.com/lovasoa/serde-sqlite-jsonb) - sqlit jsonb serde
 - [ ] [futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency) - Structured concurrency operations for async Rust
 - [ ] [shiva](https://github.com/igumnoff/shiva) - generate and parse many type of documents
+- [ ] [ffmpeg-sidecar](https://github.com/nathanbabcock/ffmpeg-sidecar) - ffmpeg binary wrapper
 
 ## Framework
 
