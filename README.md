@@ -136,6 +136,7 @@ TODO
 - [ ] [medium-to-markdown](https://github.com/Harshil-Jani/medium-to-markdown) - parse medium article to markdown, design: <https://medium.com/@harshiljani2002/a-parser-in-rust-to-convert-your-medium-blogs-to-markdown-84173a6c1300>
 - [ ] [declarative_enum_dispatch](https://github.com/Zettroke/declarative_enum_dispatch) - dynamic dispatch of a trait using an enum
 - [ ] [rauthy](https://github.com/sebadob/rauthy) - authentication
+- [ ] [balterloadtesting](https://github.com/BalterLoadTesting/balter) - load testing framework
 
 ## Framework
 
