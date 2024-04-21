@@ -137,6 +137,7 @@ TODO
 - [ ] [declarative_enum_dispatch](https://github.com/Zettroke/declarative_enum_dispatch) - dynamic dispatch of a trait using an enum
 - [ ] [rauthy](https://github.com/sebadob/rauthy) - authentication
 - [ ] [balterloadtesting](https://github.com/BalterLoadTesting/balter) - load testing framework
+- [ ] [faster-hex](https://github.com/nervosnetwork/faster-hex) - faster hex encoding and decoding
 
 ## Framework
 
