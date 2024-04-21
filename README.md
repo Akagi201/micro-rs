@@ -192,6 +192,7 @@ TODO
 - [BugStalker](https://github.com/godzie44/BugStalker/) - Rust debugger for linux
 - [portal-tunneler](https://github.com/ThomasMiz/portal-tunneler) - hole punching
 - [rlt](https://github.com/wfxr/rlt) - load testing tui
+- [aquascope](https://github.com/cognitive-engineering-lab/aquascope) - generates interactive visualizations of Rust programs
 
 ## Rust Apps
 
