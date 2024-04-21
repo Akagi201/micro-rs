@@ -138,6 +138,7 @@ TODO
 - [ ] [rauthy](https://github.com/sebadob/rauthy) - authentication
 - [ ] [balterloadtesting](https://github.com/BalterLoadTesting/balter) - load testing framework
 - [ ] [faster-hex](https://github.com/nervosnetwork/faster-hex) - faster hex encoding and decoding
+- [ ] [prefixes](https://github.com/synek317/prefixes) - simplest proc macros example, attribute-like macros
 
 ## Framework
 
@@ -193,6 +194,9 @@ TODO
 - [portal-tunneler](https://github.com/ThomasMiz/portal-tunneler) - hole punching
 - [rlt](https://github.com/wfxr/rlt) - load testing tui
 - [aquascope](https://github.com/cognitive-engineering-lab/aquascope) - generates interactive visualizations of Rust programs
+- [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [just](https://github.com/casey/just) - make alternative
+- [systemfd](https://github.com/mitsuhiko/systemfd) - help with auto reloading for projects supporting systemd socket activation
 
 ## Rust Apps
 
