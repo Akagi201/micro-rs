@@ -139,6 +139,7 @@ TODO
 - [ ] [balterloadtesting](https://github.com/BalterLoadTesting/balter) - load testing framework
 - [ ] [faster-hex](https://github.com/nervosnetwork/faster-hex) - faster hex encoding and decoding
 - [ ] [prefixes](https://github.com/synek317/prefixes) - simplest proc macros example, attribute-like macros
+- [ ] [unwrap_or_log](https://github.com/ninomerlino/unwrap_or_log) - unwrap or log
 
 ## Framework
 
@@ -197,6 +198,7 @@ TODO
 - [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 - [just](https://github.com/casey/just) - make alternative
 - [systemfd](https://github.com/mitsuhiko/systemfd) - help with auto reloading for projects supporting systemd socket activation
+- [creusot](https://github.com/creusot-rs/creusot) - a deductive verifier for Rust code
 
 ## Rust Apps
 
