@@ -216,6 +216,7 @@ TODO
 - [modern rust](https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust)
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 - [Rust ecosystem](https://blessed.rs/crates)
+- [Rust for Malware Development](https://github.com/Whitecat18/Rust-for-Malware-Development)
 
 ## Nice videos
 
