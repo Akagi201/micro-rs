@@ -140,6 +140,9 @@ TODO
 - [ ] [faster-hex](https://github.com/nervosnetwork/faster-hex) - faster hex encoding and decoding
 - [ ] [prefixes](https://github.com/synek317/prefixes) - simplest proc macros example, attribute-like macros
 - [ ] [unwrap_or_log](https://github.com/ninomerlino/unwrap_or_log) - unwrap or log
+- [ ] [serde-save](https://github.com/aatifsyed/serde-save) - serialization tree for serde, more information than serde-value.
+- [ ] [valuable](https://github.com/tokio-rs/valuable) - object-safe value inspection
+- [ ] [schemars](https://github.com/GREsau/schemars) - generate JSON Schema from rust strut
 
 ## Framework
 
@@ -219,6 +222,7 @@ TODO
 - [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 - [Rust ecosystem](https://blessed.rs/crates)
 - [Rust for Malware Development](https://github.com/Whitecat18/Rust-for-Malware-Development)
+- [Rust in companies](https://github.com/ImplFerris/rust-in-production)
 
 ## Nice videos
 
