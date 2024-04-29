@@ -86,6 +86,7 @@ TODO
 - [ ] [bytemuck](https://github.com/Lokathor/bytemuck) - Cast bytes to types safely
 - [ ] [nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees
 - [ ] [job_scheduler](https://github.com/BlackDex/job_scheduler) - Job scheduler
+- [ ] [tokio-cron-scheduler](https://github.com/mvniekerk/tokio-cron-scheduler) - tokio cron scheduler
 - [ ] [clokwerk](https://github.com/mdsherry/clokwerk) - Job scheduler
 - [ ] [delay-timer](https://github.com/BinChengZhao/delay-timer) - Job scheduler based on time wheel algorithm
 - [ ] [enum_delegate](https://gitlab.com/dawn_app/enum_delegate) - easily replace dynamic dispatch with an enum.
@@ -143,6 +144,7 @@ TODO
 - [ ] [serde-save](https://github.com/aatifsyed/serde-save) - serialization tree for serde, more information than serde-value.
 - [ ] [valuable](https://github.com/tokio-rs/valuable) - object-safe value inspection
 - [ ] [schemars](https://github.com/GREsau/schemars) - generate JSON Schema from rust strut
+- [ ] [nunny](https://github.com/aatifsyed/nunny) - non-empty vec
 
 ## Framework
 
@@ -251,6 +253,8 @@ TODO
 - <https://rust-lang.github.io/wg-async/>
 - <https://rust-unofficial.github.io/patterns/>
 - <https://github.com/LukeMathWalker/zero-to-production>
+- <https://skanehira.github.io/writing-a-wasm-runtime-in-rust/>
+- <https://toetoe55.github.io/async-rt-book/>
 
 ## Rust design patterns
 
