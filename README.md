@@ -145,6 +145,12 @@ TODO
 - [ ] [valuable](https://github.com/tokio-rs/valuable) - object-safe value inspection
 - [ ] [schemars](https://github.com/GREsau/schemars) - generate JSON Schema from rust strut
 - [ ] [nunny](https://github.com/aatifsyed/nunny) - non-empty vec
+- [ ] [subenum](https://github.com/paholg/subenum) - proc macro to make sub enum
+- [ ] [deadline](https://github.com/niklaslong/deadline) - Requires a condition closure to return `true` before the specified duration has elapsed
+- [ ] [divan](https://github.com/nvzqz/divan) - benchmark
+- [ ] [transitive](https://github.com/bobozaur/transitive) - Transitive converions through derive macros
+- [ ] [polyit-rs](https://github.com/SkyeC0re/polyit-rs) - A no-std library for manipulating polynomials
+- [ ] [comrak](https://github.com/kivikakk/comrak) - markdown parser and renderer
 
 ## Framework
 
@@ -255,6 +261,7 @@ TODO
 - <https://github.com/LukeMathWalker/zero-to-production>
 - <https://skanehira.github.io/writing-a-wasm-runtime-in-rust/>
 - <https://toetoe55.github.io/async-rt-book/>
+- <https://github.com/tugglecore/rust-tracing-primer>
 
 ## Rust design patterns
 
