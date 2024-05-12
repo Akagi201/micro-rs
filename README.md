@@ -151,6 +151,9 @@ TODO
 - [ ] [transitive](https://github.com/bobozaur/transitive) - Transitive converions through derive macros
 - [ ] [polyit-rs](https://github.com/SkyeC0re/polyit-rs) - A no-std library for manipulating polynomials
 - [ ] [comrak](https://github.com/kivikakk/comrak) - markdown parser and renderer
+- [ ] [arc-swap](https://github.com/vorner/arc-swap) - atomic operations on Arc.
+- [ ] [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures
+- [ ] [haiku-search](https://github.com/beowolx/haiku-search) - wasm fuzzy search library
 
 ## Framework
 
