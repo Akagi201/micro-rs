@@ -154,6 +154,7 @@ TODO
 - [ ] [arc-swap](https://github.com/vorner/arc-swap) - atomic operations on Arc.
 - [ ] [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures
 - [ ] [haiku-search](https://github.com/beowolx/haiku-search) - wasm fuzzy search library
+- [ ] [petgraph](https://github.com/petgraph/petgraph) - Graph data structure library
 
 ## Framework
 
@@ -234,6 +235,7 @@ TODO
 - [Rust ecosystem](https://blessed.rs/crates)
 - [Rust for Malware Development](https://github.com/Whitecat18/Rust-for-Malware-Development)
 - [Rust in companies](https://github.com/ImplFerris/rust-in-production)
+- <https://greptime.com/blogs/2024-05-07-error-rust> - error handling for big projects
 
 ## Nice videos
 
