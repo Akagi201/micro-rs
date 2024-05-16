@@ -155,6 +155,7 @@ TODO
 - [ ] [rpds](https://github.com/orium/rpds) - Rust Persistent Data Structures
 - [ ] [haiku-search](https://github.com/beowolx/haiku-search) - wasm fuzzy search library
 - [ ] [petgraph](https://github.com/petgraph/petgraph) - Graph data structure library
+- [ ] [rustwire](https://github.com/Basis-Health/rustwire) - decode protobuf message
 
 ## Framework
 
@@ -162,6 +163,7 @@ TODO
 - <https://github.com/emanguy/rust-rest> - rest template
 - <https://github.com/plabayo/rama> - proxy framework
 - <https://github.com/cloudflare/pingora> - proxy framework
+- <https://github.com/albbus-stack/t5.rs> - full rust cross platform framework
 
 ## AI
 
@@ -214,6 +216,9 @@ TODO
 - [just](https://github.com/casey/just) - make alternative
 - [systemfd](https://github.com/mitsuhiko/systemfd) - help with auto reloading for projects supporting systemd socket activation
 - [creusot](https://github.com/creusot-rs/creusot) - a deductive verifier for Rust code
+- [tokei](https://github.com/XAMPPRocky/tokei) - count your code, quickly
+- [cargo-loc](https://github.com/Shnatsel/cargo-loc) - count lines of code across your entire dependency tree
+- [cargo-geiger](https://github.com/geiger-rs/cargo-geiger) - list unsafe rust code
 
 ## Rust Apps
 
