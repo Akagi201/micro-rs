@@ -156,6 +156,18 @@ TODO
 - [ ] [haiku-search](https://github.com/beowolx/haiku-search) - wasm fuzzy search library
 - [ ] [petgraph](https://github.com/petgraph/petgraph) - Graph data structure library
 - [ ] [rustwire](https://github.com/Basis-Health/rustwire) - decode protobuf message
+- [ ] [iroh](https://github.com/n0-computer/iroh) - tookit to build p2p app, with QUIC
+- [ ] [statrs](https://github.com/statrs-dev/statrs) - statistical scientific computing
+- [ ] [fjall](https://github.com/fjall-rs/fjall) - LSM-based embeddeable key-value db in safe rust
+- [ ] [redb](https://github.com/cberner/redb) - ACID, COW, B-tree embeddeable embeddeable key-value db
+- [ ] [faer-rs](https://github.com/sarah-ek/faer-rs) - Linear algebra
+- [ ] [nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra
+- [ ] [ndarray](https://github.com/rust-ndarray/ndarray) - N-dimensional array
+- [ ] [glam-rs](https://github.com/bitshifter/glam-rs) - 3d math
+- [ ] [glamour](https://github.com/simonask/glamour) - glam wrapper
+- [ ] [varpro](https://github.com/geo-ant/varpro) - nonlinear models to data
+- [ ] [impl-for](https://github.com/Bajix/impl-for) - repeating implementations with type substitutions
+- [ ] [aqueducts](https://github.com/vigimite/aqueducts) - ETL pipeline
 
 ## Framework
 
@@ -164,6 +176,7 @@ TODO
 - <https://github.com/plabayo/rama> - proxy framework
 - <https://github.com/cloudflare/pingora> - proxy framework
 - <https://github.com/albbus-stack/t5.rs> - full rust cross platform framework
+- <https://github.com/r3bl-org/r3bl-open-core> - tui framework
 
 ## AI
 
@@ -219,6 +232,10 @@ TODO
 - [tokei](https://github.com/XAMPPRocky/tokei) - count your code, quickly
 - [cargo-loc](https://github.com/Shnatsel/cargo-loc) - count lines of code across your entire dependency tree
 - [cargo-geiger](https://github.com/geiger-rs/cargo-geiger) - list unsafe rust code
+- [mintaka](https://github.com/mwilliamson/mintaka) - Run long-running processes in parallel
+- [genson-rs](https://github.com/junyu-w/genson-rs) - generate JSON schema
+- [creusot](https://github.com/creusot-rs/creusot) - deductive verifier for Rust
+- [get_blessed_rs](https://github.com/josueBarretogit/get_blessed_rs) - get best crates
 
 ## Rust Apps
 
@@ -241,6 +258,7 @@ TODO
 - [Rust for Malware Development](https://github.com/Whitecat18/Rust-for-Malware-Development)
 - [Rust in companies](https://github.com/ImplFerris/rust-in-production)
 - <https://greptime.com/blogs/2024-05-07-error-rust> - error handling for big projects
+- <https://github.com/tailcallhq/rust-benchmarks> - benchmark between pattern matching and dynamic dispatch
 
 ## Nice videos
 
@@ -272,6 +290,8 @@ TODO
 - <https://skanehira.github.io/writing-a-wasm-runtime-in-rust/>
 - <https://toetoe55.github.io/async-rt-book/>
 - <https://github.com/tugglecore/rust-tracing-primer>
+- <https://rust-exercises.com/>
+- <https://rust-lang.github.io/async-book/>
 
 ## Rust design patterns
 
@@ -297,3 +317,4 @@ TODO
 ## Rust powered projects
 
 - <https://github.com/freedit-org/freedit> - rust forum
+- <https://github.com/thewh1teagle/vibe> - Transcribe audio in every language
