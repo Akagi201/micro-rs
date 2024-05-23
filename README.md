@@ -168,6 +168,9 @@ TODO
 - [ ] [varpro](https://github.com/geo-ant/varpro) - nonlinear models to data
 - [ ] [impl-for](https://github.com/Bajix/impl-for) - repeating implementations with type substitutions
 - [ ] [aqueducts](https://github.com/vigimite/aqueducts) - ETL pipeline
+- [ ] [cacache-rs](https://github.com/zkat/cacache-rs) - concurrent async disk cache
+- [ ] [portpicker-rs](https://github.com/Dentosal/portpicker-rs) - pick a free unused port
+- [ ] [bool-to-bitflags](https://github.com/gnomeddev/bool-to-bitflags) - compact multiple bools into a single bitflags field
 
 ## Framework
 
