@@ -172,6 +172,7 @@ TODO
 - [ ] [portpicker-rs](https://github.com/Dentosal/portpicker-rs) - pick a free unused port
 - [ ] [bool-to-bitflags](https://github.com/gnomeddev/bool-to-bitflags) - compact multiple bools into a single bitflags field
 - [ ] [rerun](https://github.com/rerun-io/rerun) - visualization of multimodal data
+- [ ] [russh](https://github.com/warp-tech/russh) - Rust SSH client & server library
 
 ## Framework
 
