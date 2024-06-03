@@ -173,6 +173,10 @@ TODO
 - [ ] [bool-to-bitflags](https://github.com/gnomeddev/bool-to-bitflags) - compact multiple bools into a single bitflags field
 - [ ] [rerun](https://github.com/rerun-io/rerun) - visualization of multimodal data
 - [ ] [russh](https://github.com/warp-tech/russh) - Rust SSH client & server library
+- [ ] [cliclack](https://github.com/fadeevab/cliclack) - cli prompt, prettier
+- [ ] [inquire](https://github.com/mikaelmello/inquire) - cli prompt, feature rich
+- [ ] [protect-endpoints](https://github.com/DDtKey/protect-endpoints) - auth extension for web frameworks
+- [ ] [may](https://github.com/Xudong-Huang/may) - stackful coroutine
 
 ## Framework
 
@@ -241,6 +245,8 @@ TODO
 - [genson-rs](https://github.com/junyu-w/genson-rs) - generate JSON schema
 - [creusot](https://github.com/creusot-rs/creusot) - deductive verifier for Rust
 - [get_blessed_rs](https://github.com/josueBarretogit/get_blessed_rs) - get best crates
+- [BugStalker](https://github.com/godzie44/BugStalker) - rust debugger
+- [gxhash](https://github.com/ogxd/gxhash) - fastest non-cryptographic hashing algorithm
 
 ## Rust Apps
 
@@ -318,6 +324,7 @@ TODO
 - <https://symbolica.io/posts/control_flow_patterns/#block-breaks>
 - <https://ryhl.io/blog/temporary-shared-mutation/>
 - <https://symbolica.io/posts/control_flow_patterns/>
+- <https://github.com/fadeevab/design-patterns-rust>
 
 ## Rust powered projects
 
