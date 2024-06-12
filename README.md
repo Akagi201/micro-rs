@@ -177,6 +177,8 @@ TODO
 - [ ] [inquire](https://github.com/mikaelmello/inquire) - cli prompt, feature rich
 - [ ] [protect-endpoints](https://github.com/DDtKey/protect-endpoints) - auth extension for web frameworks
 - [ ] [may](https://github.com/Xudong-Huang/may) - stackful coroutine
+- [ ] [rust-bridge](https://github.com/postgresml/postgresml/tree/master/pgml-sdks/rust-bridge) - generate bindings for python/js/c
+- [ ] [unfmt](https://github.com/mathematic-inc/unfmt) - reverse process of format!
 
 ## Framework
 
@@ -247,6 +249,8 @@ TODO
 - [get_blessed_rs](https://github.com/josueBarretogit/get_blessed_rs) - get best crates
 - [BugStalker](https://github.com/godzie44/BugStalker) - rust debugger
 - [gxhash](https://github.com/ogxd/gxhash) - fastest non-cryptographic hashing algorithm
+- [cijail](https://github.com/staex-io/cijail) - prevent supply chain attacks
+- [rsapar](https://github.com/dertin/rsapar) - struct/JSON schema validate
 
 ## Rust Apps
 
@@ -270,6 +274,7 @@ TODO
 - [Rust in companies](https://github.com/ImplFerris/rust-in-production)
 - <https://greptime.com/blogs/2024-05-07-error-rust> - error handling for big projects
 - <https://github.com/tailcallhq/rust-benchmarks> - benchmark between pattern matching and dynamic dispatch
+- <https://rust-dex.cc/#> - std lib explain and example code
 
 ## Nice videos
 
