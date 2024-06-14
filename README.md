@@ -147,7 +147,6 @@ TODO
 - [ ] [nunny](https://github.com/aatifsyed/nunny) - non-empty vec
 - [ ] [subenum](https://github.com/paholg/subenum) - proc macro to make sub enum
 - [ ] [deadline](https://github.com/niklaslong/deadline) - Requires a condition closure to return `true` before the specified duration has elapsed
-- [ ] [divan](https://github.com/nvzqz/divan) - benchmark
 - [ ] [transitive](https://github.com/bobozaur/transitive) - Transitive converions through derive macros
 - [ ] [polyit-rs](https://github.com/SkyeC0re/polyit-rs) - A no-std library for manipulating polynomials
 - [ ] [comrak](https://github.com/kivikakk/comrak) - markdown parser and renderer
@@ -251,6 +250,7 @@ TODO
 - [gxhash](https://github.com/ogxd/gxhash) - fastest non-cryptographic hashing algorithm
 - [cijail](https://github.com/staex-io/cijail) - prevent supply chain attacks
 - [rsapar](https://github.com/dertin/rsapar) - struct/JSON schema validate
+- [shpool](https://github.com/shell-pool/shpool) - tmux lightweight alternative
 
 ## Rust Apps
 
@@ -308,6 +308,7 @@ TODO
 - <https://github.com/tugglecore/rust-tracing-primer>
 - <https://rust-exercises.com/>
 - <https://rust-lang.github.io/async-book/>
+- <https://rust-lang.github.io/generic-associated-types-initiative/> - official GAT book
 
 ## Rust design patterns
 
