@@ -178,6 +178,10 @@ TODO
 - [ ] [may](https://github.com/Xudong-Huang/may) - stackful coroutine
 - [ ] [rust-bridge](https://github.com/postgresml/postgresml/tree/master/pgml-sdks/rust-bridge) - generate bindings for python/js/c
 - [ ] [unfmt](https://github.com/mathematic-inc/unfmt) - reverse process of format!
+- [ ] [automerge](https://github.com/automerge/automerge) - CRDT
+- [ ] [octocrab](https://github.com/XAMPPRocky/octocrab) - github api
+- [ ] [tracing-bunyan-formatter](https://github.com/LukeMathWalker/tracing-bunyan-formatter) - json log
+- [ ] [json-subscriber](https://github.com/mladedav/json-subscriber) - json log
 
 ## Framework
 
@@ -187,6 +191,7 @@ TODO
 - <https://github.com/cloudflare/pingora> - proxy framework
 - <https://github.com/albbus-stack/t5.rs> - full rust cross platform framework
 - <https://github.com/r3bl-org/r3bl-open-core> - tui framework
+- <https://github.com/holo-routing/holo> - micro service framework
 
 ## AI
 
