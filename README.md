@@ -192,6 +192,7 @@ TODO
 - <https://github.com/albbus-stack/t5.rs> - full rust cross platform framework
 - <https://github.com/r3bl-org/r3bl-open-core> - tui framework
 - <https://github.com/holo-routing/holo> - micro service framework
+- <https://github.com/meteroid-oss/meteroid> - grpc micro service saas product
 
 ## AI
 
