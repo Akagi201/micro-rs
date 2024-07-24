@@ -182,6 +182,9 @@ TODO
 - [ ] [octocrab](https://github.com/XAMPPRocky/octocrab) - github api
 - [ ] [tracing-bunyan-formatter](https://github.com/LukeMathWalker/tracing-bunyan-formatter) - json log
 - [ ] [json-subscriber](https://github.com/mladedav/json-subscriber) - json log
+- [ ] [russh](https://github.com/warp-tech/russh) - async tokio ssh
+- [ ] [indexed_priority_queue](https://github.com/binary-banter/indexed_priority_queue) - indexed priority queue
+- [ ] [openfhe-rs](https://github.com/fairmath/openfhe-rs) - a OpenFHE wrapper.
 
 ## Framework
 
@@ -232,7 +235,7 @@ TODO
 - [rudric](https://github.com/mike-lloyd03/rudric) - .env secret encryption tool
 - [rustviz](https://github.com/rustviz/rustviz) - visualize rust ownership and borrowing
 - [hyperqueue](https://github.com/it4innovations/hyperqueue) - job scheduler
-- [cargo-dylint](https://github.com/trailofbits/dylint) - dynamic lint, another clippy
+- [cargo-dylint](https://github.com/trailofb its/dylint) - dynamic lint, another clippy
 - [zerocopy](https://github.com/google/zerocopy) - unsafe zero copy
 - [presser](https://github.com/EmbarkStudios/presser) - unsafe copy structure data to raw buffer
 - [release-plz](https://github.com/MarcoIeni/release-plz) - release github action
@@ -257,6 +260,7 @@ TODO
 - [cijail](https://github.com/staex-io/cijail) - prevent supply chain attacks
 - [rsapar](https://github.com/dertin/rsapar) - struct/JSON schema validate
 - [shpool](https://github.com/shell-pool/shpool) - tmux lightweight alternative
+- [envelope](https://github.com/mattrighetti/envelope) - env variables manager
 
 ## Rust Apps
 

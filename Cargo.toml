@@ -2,4 +2,7 @@
 members = [
     "grpc-app",
     "openapi-app",
+    "saas",
 ]
+
+resolver = "2"

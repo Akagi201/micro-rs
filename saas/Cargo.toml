@@ -1,0 +1,15 @@
+[package]
+name = "saas"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+axum = "0.7.5"
+clap = { version = "4.5.7", features = ["derive"] }
+config = "0.14.0"
+scc = { version = "2.1.1", features = ["serde"] }
+serde = { version = "1.0.203", features = ["derive"] }
+serde_json = "1.0.117"
+tokio = { version = "1.38.0", features = ["full"] }
+uuid = { version = "1.8.0", features = ["v4", "fast-rng", "macro-diagnostics"] }
+tower-http = { version = "0.5.2", features = ["cors", "trace", "catch-panic", "util"] }
