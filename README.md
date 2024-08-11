@@ -87,6 +87,7 @@ TODO
 - [ ] [nutype](https://github.com/greyblake/nutype) - Rust newtype with guarantees
 - [ ] [job_scheduler](https://github.com/BlackDex/job_scheduler) - Job scheduler
 - [ ] [tokio-cron-scheduler](https://github.com/mvniekerk/tokio-cron-scheduler) - tokio cron scheduler
+- [ ] [cronframe](https://github.com/antcim/cronframe) - cron
 - [ ] [clokwerk](https://github.com/mdsherry/clokwerk) - Job scheduler
 - [ ] [delay-timer](https://github.com/BinChengZhao/delay-timer) - Job scheduler based on time wheel algorithm
 - [ ] [enum_delegate](https://gitlab.com/dawn_app/enum_delegate) - easily replace dynamic dispatch with an enum.
@@ -185,6 +186,8 @@ TODO
 - [ ] [russh](https://github.com/warp-tech/russh) - async tokio ssh
 - [ ] [indexed_priority_queue](https://github.com/binary-banter/indexed_priority_queue) - indexed priority queue
 - [ ] [openfhe-rs](https://github.com/fairmath/openfhe-rs) - a OpenFHE wrapper.
+- [ ] [rust2go](https://github.com/ihciah/rust2go) - rust call go.
+- [ ] [gerevs](https://github.com/itamarsch/gerevs) - socks5 proxy
 
 ## Framework
 
@@ -261,6 +264,14 @@ TODO
 - [rsapar](https://github.com/dertin/rsapar) - struct/JSON schema validate
 - [shpool](https://github.com/shell-pool/shpool) - tmux lightweight alternative
 - [envelope](https://github.com/mattrighetti/envelope) - env variables manager
+- [jlf](https://github.com/PoOnesNerfect/jlf) - json log viewer
+- [flamelens](https://github.com/YS-L/flamelens) - terminal flamegraph viewer
+- [sqruff](https://github.com/quarylabs/sqruff) - sql lint
+
+## Rust FFI
+
+* <https://neon-rs.dev/> - rust x node.js
+* <https://trunkrs.dev/> - rust x wasm
 
 ## Rust Apps
 
@@ -319,6 +330,7 @@ TODO
 - <https://rust-exercises.com/>
 - <https://rust-lang.github.io/async-book/>
 - <https://rust-lang.github.io/generic-associated-types-initiative/> - official GAT book
+- <https://rust-for-rustaceans.com/>
 
 ## Rust design patterns
 
