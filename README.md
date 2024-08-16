@@ -267,6 +267,8 @@ TODO
 - [jlf](https://github.com/PoOnesNerfect/jlf) - json log viewer
 - [flamelens](https://github.com/YS-L/flamelens) - terminal flamegraph viewer
 - [sqruff](https://github.com/quarylabs/sqruff) - sql lint
+- [trippy](https://github.com/fujiapple852/trippy) - traceroute + ping
+- [tonbo](https://tonbo.io/) - Arrow and parquet embedded KV db.
 
 ## Rust FFI
 
