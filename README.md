@@ -188,6 +188,7 @@ TODO
 - [ ] [openfhe-rs](https://github.com/fairmath/openfhe-rs) - a OpenFHE wrapper.
 - [ ] [rust2go](https://github.com/ihciah/rust2go) - rust call go.
 - [ ] [gerevs](https://github.com/itamarsch/gerevs) - socks5 proxy
+- [ ] [tower-surf](https://github.com/quiet-camp/tower-surf) - tower CSRF middleware
 
 ## Framework
 
