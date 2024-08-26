@@ -189,6 +189,7 @@ TODO
 - [ ] [rust2go](https://github.com/ihciah/rust2go) - rust call go.
 - [ ] [gerevs](https://github.com/itamarsch/gerevs) - socks5 proxy
 - [ ] [tower-surf](https://github.com/quiet-camp/tower-surf) - tower CSRF middleware
+- [ ] [](https://github.com/ohkami-rs/serdev) - serde with validation
 
 ## Framework
 
