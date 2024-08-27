@@ -68,6 +68,7 @@ TODO
 - [ ] [soapy](https://github.com/tim-harding/soapy/) - another SOA macro
 - [ ] [derive_more](https://github.com/JelteF/derive_more) - derive traits helper
 - [ ] [rust-derive-builder](https://github.com/colin-kiegel/rust-derive-builder) - generate struct builder, builder pattern
+- [ ] [bon](https://github.com/elastio/bon) - generate builder for functions and structs
 - [ ] [fakeit](https://github.com/PumpkinSeed/fakeit) - gake data generator
 - [ ] [proptest](https://github.com/proptest-rs/proptest) - Hypothesis-like property testing
 - [ ] [trybuild](https://github.com/dtolnay/trybuild) - Test that certain code variants do not compile.
@@ -189,7 +190,8 @@ TODO
 - [ ] [rust2go](https://github.com/ihciah/rust2go) - rust call go.
 - [ ] [gerevs](https://github.com/itamarsch/gerevs) - socks5 proxy
 - [ ] [tower-surf](https://github.com/quiet-camp/tower-surf) - tower CSRF middleware
-- [ ] [](https://github.com/ohkami-rs/serdev) - serde with validation
+- [ ] [serdev](https://github.com/ohkami-rs/serdev) - serde with validation
+- [ ] [backon](https://github.com/Xuanwo/backon) - retry
 
 ## Framework
 
