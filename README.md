@@ -273,6 +273,9 @@ TODO
 - [sqruff](https://github.com/quarylabs/sqruff) - sql lint
 - [trippy](https://github.com/fujiapple852/trippy) - traceroute + ping
 - [tonbo](https://tonbo.io/) - Arrow and parquet embedded KV db.
+- [rsql](https://github.com/theseus-rs/rsql) - db cli
+- [Hawk](https://github.com/iyksh/Hawk) - network sniffer with GUI <https://iyksh.github.io/blog/sniffer/>
+- [hurl](https://github.com/Orange-OpenSource/hurl) - http request with plain text
 
 ## Rust FFI
 
