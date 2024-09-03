@@ -192,6 +192,13 @@ TODO
 - [ ] [tower-surf](https://github.com/quiet-camp/tower-surf) - tower CSRF middleware
 - [ ] [serdev](https://github.com/ohkami-rs/serdev) - serde with validation
 - [ ] [backon](https://github.com/Xuanwo/backon) - retry
+- [ ] [plotlars](https://github.com/alceal/plotlars) - plotly wrapper
+- [ ] [dasm](https://github.com/DvvCz/dasm) - x86/x64 assembler
+- [ ] [iced](https://github.com/icedland/iced) - x86/x64 assembler disassembeler
+
+## Testing
+
+- [httpmock](https://github.com/alexliesenfeld/httpmock) - http mock 
 
 ## Framework
 
@@ -276,11 +283,14 @@ TODO
 - [rsql](https://github.com/theseus-rs/rsql) - db cli
 - [Hawk](https://github.com/iyksh/Hawk) - network sniffer with GUI <https://iyksh.github.io/blog/sniffer/>
 - [hurl](https://github.com/Orange-OpenSource/hurl) - http request with plain text
+- [oryx](https://github.com/pythops/oryx) - tui for sniffer using eBPF
+- [query.rs](https://query.rs/) - a search engine for rust
 
 ## Rust FFI
 
-* <https://neon-rs.dev/> - rust x node.js
-* <https://trunkrs.dev/> - rust x wasm
+- <https://neon-rs.dev/> - rust x node.js
+- <https://trunkrs.dev/> - rust x wasm
+- <https://github.com/lu-zero/cargo-c> - build and install C-compatible libraries
 
 ## Rust Apps
 
