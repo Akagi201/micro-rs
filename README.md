@@ -195,6 +195,7 @@ TODO
 - [ ] [plotlars](https://github.com/alceal/plotlars) - plotly wrapper
 - [ ] [dasm](https://github.com/DvvCz/dasm) - x86/x64 assembler
 - [ ] [iced](https://github.com/icedland/iced) - x86/x64 assembler disassembeler
+- [ ] [wrappers](https://github.com/supabase/wrappers) - development framework for Postgres Foreign Data Wrappers(FDW)
 
 ## Testing
 
@@ -285,6 +286,8 @@ TODO
 - [hurl](https://github.com/Orange-OpenSource/hurl) - http request with plain text
 - [oryx](https://github.com/pythops/oryx) - tui for sniffer using eBPF
 - [query.rs](https://query.rs/) - a search engine for rust
+- [garage](https://github.com/deuxfleurs-org/garage) - S3-compatible object store
+- [paradedb](https://github.com/paradedb/paradedb) - Elasticsearch alternative built on Postgres
 
 ## Rust FFI
 
