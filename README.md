@@ -196,6 +196,8 @@ TODO
 - [ ] [dasm](https://github.com/DvvCz/dasm) - x86/x64 assembler
 - [ ] [iced](https://github.com/icedland/iced) - x86/x64 assembler disassembeler
 - [ ] [wrappers](https://github.com/supabase/wrappers) - development framework for Postgres Foreign Data Wrappers(FDW)
+- [ ] [moka](https://github.com/moka-rs/moka) - a fast, concurrent cache library
+- [ ] [rkyv](https://github.com/rkyv/rkyv) - zero-copy deserialization framework
 
 ## Testing
 
@@ -288,6 +290,7 @@ TODO
 - [query.rs](https://query.rs/) - a search engine for rust
 - [garage](https://github.com/deuxfleurs-org/garage) - S3-compatible object store
 - [paradedb](https://github.com/paradedb/paradedb) - Elasticsearch alternative built on Postgres
+- [BugStalker](https://github.com/godzie44/BugStalker) - rust debugger
 
 ## Rust FFI
 
