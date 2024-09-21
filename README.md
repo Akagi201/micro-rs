@@ -198,6 +198,8 @@ TODO
 - [ ] [wrappers](https://github.com/supabase/wrappers) - development framework for Postgres Foreign Data Wrappers(FDW)
 - [ ] [moka](https://github.com/moka-rs/moka) - a fast, concurrent cache library
 - [ ] [rkyv](https://github.com/rkyv/rkyv) - zero-copy deserialization framework
+- [ ] [rust-lexical](https://github.com/Alexhuszagh/rust-lexical) - fast numeric and string conversion
+- [ ] [chili](https://github.com/dragostis/chili) - rust port of spice, a low-overhead parallelization library.
 
 ## Testing
 
