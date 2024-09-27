@@ -200,6 +200,8 @@ TODO
 - [ ] [rkyv](https://github.com/rkyv/rkyv) - zero-copy deserialization framework
 - [ ] [rust-lexical](https://github.com/Alexhuszagh/rust-lexical) - fast numeric and string conversion
 - [ ] [chili](https://github.com/dragostis/chili) - rust port of spice, a low-overhead parallelization library.
+- [ ] [rustynum](https://github.com/IgorSusmelj/rustynum) - rust numpy with SIMD
+- [ ] [skiplist-rust](https://github.com/monadbobo/skiplist-rust) - skiplist inspired by leveldb
 
 ## Testing
 
@@ -293,6 +295,8 @@ TODO
 - [garage](https://github.com/deuxfleurs-org/garage) - S3-compatible object store
 - [paradedb](https://github.com/paradedb/paradedb) - Elasticsearch alternative built on Postgres
 - [BugStalker](https://github.com/godzie44/BugStalker) - rust debugger
+- [rainfrog](https://github.com/achristmascarl/rainfrog) - postgres tui
+- [arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine
 
 ## Rust FFI
 
