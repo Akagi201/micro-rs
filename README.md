@@ -202,6 +202,8 @@ TODO
 - [ ] [chili](https://github.com/dragostis/chili) - rust port of spice, a low-overhead parallelization library.
 - [ ] [rustynum](https://github.com/IgorSusmelj/rustynum) - rust numpy with SIMD
 - [ ] [skiplist-rust](https://github.com/monadbobo/skiplist-rust) - skiplist inspired by leveldb
+- [ ] [ureq](https://github.com/algesten/ureq) - lightweight sync http client
+- [ ] [pumps_rs](https://github.com/alexpusch/pumps_rs) - future stream api
 
 ## Testing
 
