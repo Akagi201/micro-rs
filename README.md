@@ -204,10 +204,14 @@ TODO
 - [ ] [skiplist-rust](https://github.com/monadbobo/skiplist-rust) - skiplist inspired by leveldb
 - [ ] [ureq](https://github.com/algesten/ureq) - lightweight sync http client
 - [ ] [pumps_rs](https://github.com/alexpusch/pumps_rs) - future stream api
+- [ ] [blst](https://github.com/supranational/blst) - BLS12-381 signature library written in C and assembly.
+- [ ] [tokio-graceful](https://github.com/plabayo/tokio-graceful) - Graceful shutdown for tokio project
+- [ ] [stochastic-rs](https://github.com/dancixx/stochastic-rs) - high-performance simulation and analysis of stochastic processes and models in quant finance
 
 ## Testing
 
 - [httpmock](https://github.com/alexliesenfeld/httpmock) - http mock 
+- [mockito](https://github.com/lipanski/mockito) - http mock
 
 ## Framework
 
@@ -219,6 +223,8 @@ TODO
 - <https://github.com/r3bl-org/r3bl-open-core> - tui framework
 - <https://github.com/holo-routing/holo> - micro service framework
 - <https://github.com/meteroid-oss/meteroid> - grpc micro service saas product
+- <https://github.com/barter-rs/barter-rs> - like ccxt, but in rust
+- <https://github.com/gosub-io/gosub-engine> - browser engine in rust
 
 ## AI
 
@@ -299,6 +305,12 @@ TODO
 - [BugStalker](https://github.com/godzie44/BugStalker) - rust debugger
 - [rainfrog](https://github.com/achristmascarl/rainfrog) - postgres tui
 - [arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine
+- [cargo-show-asm](https://github.com/pacak/cargo-show-asm) - cargo subcommand showing the assembly
+- [refinery](https://github.com/rust-db/refinery) - db migration tool, can be used in Rust code or cli.
+- [binsider](https://github.com/orhun/binsider) - Analyze ELF binaries
+- [cargo-vet](https://github.com/mozilla/cargo-vet) - supply-chain security for Rust
+- [diff.rs](https://diff.rs/) - diff between crate versions.
+- [kaffe-rs](https://github.com/Schachte/kaffe-rs) - mdx to html
 
 ## Rust FFI
 
@@ -386,6 +398,7 @@ TODO
 - <https://ryhl.io/blog/temporary-shared-mutation/>
 - <https://symbolica.io/posts/control_flow_patterns/>
 - <https://github.com/fadeevab/design-patterns-rust>
+- <https://github.com/alexpusch/rust-magic-patterns>
 
 ## Rust powered projects
 
