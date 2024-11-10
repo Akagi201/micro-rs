@@ -207,6 +207,8 @@ TODO
 - [ ] [blst](https://github.com/supranational/blst) - BLS12-381 signature library written in C and assembly.
 - [ ] [tokio-graceful](https://github.com/plabayo/tokio-graceful) - Graceful shutdown for tokio project
 - [ ] [stochastic-rs](https://github.com/dancixx/stochastic-rs) - high-performance simulation and analysis of stochastic processes and models in quant finance
+- [ ] [flume](https://github.com/zesterer/flume) - mpmc channel
+- [ ] [](https://github.com/mratsim/constantine) - cryptographic primitives used in zkp
 
 ## Testing
 
@@ -264,7 +266,7 @@ TODO
 - [rudric](https://github.com/mike-lloyd03/rudric) - .env secret encryption tool
 - [rustviz](https://github.com/rustviz/rustviz) - visualize rust ownership and borrowing
 - [hyperqueue](https://github.com/it4innovations/hyperqueue) - job scheduler
-- [cargo-dylint](https://github.com/trailofb its/dylint) - dynamic lint, another clippy
+- [cargo-dylint](https://github.com/trailofbits/dylint) - dynamic lint, another clippy
 - [zerocopy](https://github.com/google/zerocopy) - unsafe zero copy
 - [presser](https://github.com/EmbarkStudios/presser) - unsafe copy structure data to raw buffer
 - [release-plz](https://github.com/MarcoIeni/release-plz) - release github action
@@ -311,6 +313,8 @@ TODO
 - [cargo-vet](https://github.com/mozilla/cargo-vet) - supply-chain security for Rust
 - [diff.rs](https://diff.rs/) - diff between crate versions.
 - [kaffe-rs](https://github.com/Schachte/kaffe-rs) - mdx to html
+- [oha](https://github.com/hatoo/oha) - HTTP load generator, inspired by rakyll/hey with tui animation.
+- [qcp](https://github.com/crazyscot/qcp) - like scp but with quick protocol
 
 ## Rust FFI
 
