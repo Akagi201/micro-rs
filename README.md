@@ -190,6 +190,7 @@ TODO
 - [ ] [rust2go](https://github.com/ihciah/rust2go) - rust call go.
 - [ ] [gerevs](https://github.com/itamarsch/gerevs) - socks5 proxy
 - [ ] [tower-surf](https://github.com/quiet-camp/tower-surf) - tower CSRF middleware
+- [ ] [tower-http-client](https://github.com/alekseysidorov/tower-http-client) - tower http client middleware
 - [ ] [serdev](https://github.com/ohkami-rs/serdev) - serde with validation
 - [ ] [backon](https://github.com/Xuanwo/backon) - retry
 - [ ] [plotlars](https://github.com/alceal/plotlars) - plotly wrapper
@@ -208,7 +209,8 @@ TODO
 - [ ] [tokio-graceful](https://github.com/plabayo/tokio-graceful) - Graceful shutdown for tokio project
 - [ ] [stochastic-rs](https://github.com/dancixx/stochastic-rs) - high-performance simulation and analysis of stochastic processes and models in quant finance
 - [ ] [flume](https://github.com/zesterer/flume) - mpmc channel
-- [ ] [](https://github.com/mratsim/constantine) - cryptographic primitives used in zkp
+- [ ] [constantine](https://github.com/mratsim/constantine) - cryptographic primitives used in zkp
+- [ ] [Integrate](https://github.com/mtantaoui/Integrate) - numerical integration of real-valued functions
 
 ## Testing
 
@@ -315,6 +317,8 @@ TODO
 - [kaffe-rs](https://github.com/Schachte/kaffe-rs) - mdx to html
 - [oha](https://github.com/hatoo/oha) - HTTP load generator, inspired by rakyll/hey with tui animation.
 - [qcp](https://github.com/crazyscot/qcp) - like scp but with quick protocol
+- [harper](https://github.com/elijah-potter/harper) - English grammer checker
+- [gosub](https://github.com/gosub-io/gosub-engine) - rust browser engine
 
 ## Rust FFI
 
