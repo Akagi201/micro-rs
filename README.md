@@ -211,6 +211,10 @@ TODO
 - [ ] [flume](https://github.com/zesterer/flume) - mpmc channel
 - [ ] [constantine](https://github.com/mratsim/constantine) - cryptographic primitives used in zkp
 - [ ] [Integrate](https://github.com/mtantaoui/Integrate) - numerical integration of real-valued functions
+- [ ] [confy](https://github.com/rust-cli/confy) - configuration management
+- [ ] [jiff](https://github.com/BurntSushi/jiff) - high-level datetime library
+- [ ] [askama](https://github.com/rinja-rs/askama) - type-safe, compiled Jinja-like templates
+- [ ] [embive](https://github.com/embive/embive) - risc-v interpreter
 
 ## Testing
 
@@ -319,6 +323,9 @@ TODO
 - [qcp](https://github.com/crazyscot/qcp) - like scp but with quick protocol
 - [harper](https://github.com/elijah-potter/harper) - English grammer checker
 - [gosub](https://github.com/gosub-io/gosub-engine) - rust browser engine
+- [mise](https://github.com/jdx/mise) - dev tool
+- [comtrya](https://github.com/comtrya/comtrya) - ansible alternative, much simpler
+- [himalaya](https://github.com/pimalaya/himalaya) - email cli
 
 ## Rust FFI
 
