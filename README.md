@@ -215,6 +215,7 @@ TODO
 - [ ] [jiff](https://github.com/BurntSushi/jiff) - high-level datetime library
 - [ ] [askama](https://github.com/rinja-rs/askama) - type-safe, compiled Jinja-like templates
 - [ ] [embive](https://github.com/embive/embive) - risc-v interpreter
+- [ ] [ammonia](https://github.com/rust-ammonia/ammonia) - html sanitizer
 
 ## Testing
 
