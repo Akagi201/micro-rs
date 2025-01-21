@@ -213,9 +213,12 @@ TODO
 - [ ] [Integrate](https://github.com/mtantaoui/Integrate) - numerical integration of real-valued functions
 - [ ] [confy](https://github.com/rust-cli/confy) - configuration management
 - [ ] [jiff](https://github.com/BurntSushi/jiff) - high-level datetime library
-- [ ] [askama](https://github.com/rinja-rs/askama) - type-safe, compiled Jinja-like templates
+- [ ] [askama](https://github.com/rinja-rs/rinja) - type-safe, compiled Jinja-like templates
 - [ ] [embive](https://github.com/embive/embive) - risc-v interpreter
 - [ ] [ammonia](https://github.com/rust-ammonia/ammonia) - html sanitizer
+- [ ] [ropey](https://github.com/cessen/ropey) - large text file reader
+- [ ] [tysm](https://github.com/not-pizza/tysm) - structured output openai client
+- [ ] [dagrs](https://github.com/dagrs-dev/dagrs) - dag
 
 ## Testing
 
@@ -322,11 +325,14 @@ TODO
 - [kaffe-rs](https://github.com/Schachte/kaffe-rs) - mdx to html
 - [oha](https://github.com/hatoo/oha) - HTTP load generator, inspired by rakyll/hey with tui animation.
 - [qcp](https://github.com/crazyscot/qcp) - like scp but with quick protocol
-- [harper](https://github.com/elijah-potter/harper) - English grammer checker
+- [harper](https://github.com/elijah-potter/harper) - English grammar checker
 - [gosub](https://github.com/gosub-io/gosub-engine) - rust browser engine
 - [mise](https://github.com/jdx/mise) - dev tool
 - [comtrya](https://github.com/comtrya/comtrya) - ansible alternative, much simpler
 - [himalaya](https://github.com/pimalaya/himalaya) - email cli
+- [fake-rs](https://github.com/cksac/fake-rs) - library and cli for generating fake data
+- [czkawka](https://github.com/qarmin/czkawka) - find duplicates, empty folders, similar images, etc.
+- [gitbutler](https://github.com/gitbutlerapp/gitbutler) - git GUI client.
 
 ## Rust FFI
 
@@ -374,6 +380,7 @@ TODO
 - [Writing Interpreters in Rust: a Guide](https://rust-hosted-langs.github.io/book/introduction.html) - Writing Interpreters in Rust: a Guide
 - [Easy Rust](https://dhghomon.github.io/easy_rust/Chapter_1.html) - Easy Rust and some best practice.
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/title-page.html) - The Rust Performance Book
+- [Learning Rust By Practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice
 - <https://github.com/m-ou-se/rust-atomics-and-locks>
 - <https://marabos.nl/atomics/>
 - <https://github.com/rustcc/Rust_Atomics_and_Locks>
