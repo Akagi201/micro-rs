@@ -219,6 +219,22 @@ TODO
 - [ ] [ropey](https://github.com/cessen/ropey) - large text file reader
 - [ ] [tysm](https://github.com/not-pizza/tysm) - structured output openai client
 - [ ] [dagrs](https://github.com/dagrs-dev/dagrs) - dag
+- [ ] [tendril](https://github.com/servo/tendril) - compact string type for zero-copy parsing
+- [ ] [dom_smoothie](https://github.com/niklak/dom_smoothie) - readability of html
+- [ ] [rust-genai](https://github.com/jeremychone/rust-genai) - LLM client
+- [ ] [matchit](https://github.com/ibraheemdev/matchit) - high performance, zero-copy URL router.
+- [ ] [rapid_solve](https://github.com/LeonSering/rapid_solve) - A metaheuristic framework for solving combinatorial optimization problems
+- [ ] [foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache
+
+## Scientific computing
+
+- [nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra
+- [ndarray](https://github.com/rust-ndarray/ndarray)
+- [ndarray-stats](https://github.com/rust-ndarray/ndarray-stats)
+- [ndarray-linalg](https://github.com/rust-ndarray/ndarray-linalg) - Linear algebra
+- [polars](https://github.com/pola-rs/polars)
+- [rand](https://github.com/rust-random/rand)
+- [rust-cv](https://github.com/rust-cv) - opencv, image
 
 ## Testing
 
@@ -333,6 +349,9 @@ TODO
 - [fake-rs](https://github.com/cksac/fake-rs) - library and cli for generating fake data
 - [czkawka](https://github.com/qarmin/czkawka) - find duplicates, empty folders, similar images, etc.
 - [gitbutler](https://github.com/gitbutlerapp/gitbutler) - git GUI client.
+- [chamber](https://github.com/AarhamH/chamber) - audio processing library and GUI.
+- [ouch](https://github.com/ouch-org/ouch) - compression and decompression in the terminal
+- [rustowl](https://github.com/cordx56/rustowl) - visualize ownership and lifetimes
 
 ## Rust FFI
 
