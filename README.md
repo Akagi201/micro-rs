@@ -22,7 +22,6 @@ TODO
 - [ ] [shadow-rs](https://github.com/baoyachi/shadow-rs) - build time information
 - [ ] [serde_with](https://github.com/jonasbb/serde_with) - serde helpers
 - [ ] [tokio](https://tokio.rs/) - async runtime
-- [ ] [time](https://github.com/time-rs/time) - time handling
 - [ ] [tracing](https://github.com/tokio-rs/tracing) - tracing and log
 - [ ] [SeaOrm](https://github.com/SeaQL/sea-orm) - db orm
 - [ ] [tabled](https://github.com/zhiburt/tabled) - pretty print
@@ -225,6 +224,7 @@ TODO
 - [ ] [matchit](https://github.com/ibraheemdev/matchit) - high performance, zero-copy URL router.
 - [ ] [rapid_solve](https://github.com/LeonSering/rapid_solve) - A metaheuristic framework for solving combinatorial optimization problems
 - [ ] [foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache
+- [ ] [kand](https://github.com/rust-ta/kand) - TA for rust and python
 
 ## Scientific computing
 
@@ -235,6 +235,7 @@ TODO
 - [polars](https://github.com/pola-rs/polars)
 - [rand](https://github.com/rust-random/rand)
 - [rust-cv](https://github.com/rust-cv) - opencv, image
+- [lin-alg](https://github.com/David-OConnor/lin-alg) - matrices, vecotrs and quaternions.
 
 ## Testing
 
@@ -253,6 +254,7 @@ TODO
 - <https://github.com/meteroid-oss/meteroid> - grpc micro service saas product
 - <https://github.com/barter-rs/barter-rs> - like ccxt, but in rust
 - <https://github.com/gosub-io/gosub-engine> - browser engine in rust
+- <https://github.com/NishantJoshi00/shelgon> - repl framework based on ratatui
 
 ## AI
 
@@ -352,6 +354,9 @@ TODO
 - [chamber](https://github.com/AarhamH/chamber) - audio processing library and GUI.
 - [ouch](https://github.com/ouch-org/ouch) - compression and decompression in the terminal
 - [rustowl](https://github.com/cordx56/rustowl) - visualize ownership and lifetimes
+- [Nping](https://github.com/hanshuaikang/Nping) - ping
+- [soar](https://github.com/pkgforge/soar) - modern package manager
+- [mdq](https://github.com/yshavit/mdq) - like jq but for markdown
 
 ## Rust FFI
 
