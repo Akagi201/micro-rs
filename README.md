@@ -225,6 +225,8 @@ TODO
 - [ ] [rapid_solve](https://github.com/LeonSering/rapid_solve) - A metaheuristic framework for solving combinatorial optimization problems
 - [ ] [foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache
 - [ ] [kand](https://github.com/rust-ta/kand) - TA for rust and python
+- [ ] [typify](https://github.com/oxidecomputer/typify) - JSON Schema into idiomatic Rust types
+- [ ] [schemars](https://github.com/GREsau/schemars) - Rust code to json schema
 
 ## Scientific computing
 
@@ -357,6 +359,8 @@ TODO
 - [Nping](https://github.com/hanshuaikang/Nping) - ping
 - [soar](https://github.com/pkgforge/soar) - modern package manager
 - [mdq](https://github.com/yshavit/mdq) - like jq but for markdown
+- [xan](https://github.com/medialab/xan) - CSV processor
+- [ferron](https://github.com/ferronweb/ferron) - web server
 
 ## Rust FFI
 
