@@ -227,6 +227,8 @@ TODO
 - [ ] [kand](https://github.com/rust-ta/kand) - TA for rust and python
 - [ ] [typify](https://github.com/oxidecomputer/typify) - JSON Schema into idiomatic Rust types
 - [ ] [schemars](https://github.com/GREsau/schemars) - Rust code to json schema
+- [ ] [mem-isolate](https://github.com/brannondorsey/mem-isolate) - run unsafe function via `fork()`
+- [ ] [postgres-language-server](https://github.com/supabase-community/postgres-language-server) - language server for postgres
 
 ## Scientific computing
 
