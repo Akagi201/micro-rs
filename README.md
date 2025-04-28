@@ -144,7 +144,8 @@ TODO
 - [ ] [unwrap_or_log](https://github.com/ninomerlino/unwrap_or_log) - unwrap or log
 - [ ] [serde-save](https://github.com/aatifsyed/serde-save) - serialization tree for serde, more information than serde-value.
 - [ ] [valuable](https://github.com/tokio-rs/valuable) - object-safe value inspection
-- [ ] [schemars](https://github.com/GREsau/schemars) - generate JSON Schema from rust strut
+- [ ] [schemars](https://github.com/GREsau/schemars) - generate JSON Schema from rust struct
+- [ ] [aide](https://github.com/tamasfe/aide) - Code first openapi document with schemars
 - [ ] [nunny](https://github.com/aatifsyed/nunny) - non-empty vec
 - [ ] [subenum](https://github.com/paholg/subenum) - proc macro to make sub enum
 - [ ] [deadline](https://github.com/niklaslong/deadline) - Requires a condition closure to return `true` before the specified duration has elapsed
@@ -226,7 +227,6 @@ TODO
 - [ ] [foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache
 - [ ] [kand](https://github.com/rust-ta/kand) - TA for rust and python
 - [ ] [typify](https://github.com/oxidecomputer/typify) - JSON Schema into idiomatic Rust types
-- [ ] [schemars](https://github.com/GREsau/schemars) - Rust code to json schema
 - [ ] [mem-isolate](https://github.com/brannondorsey/mem-isolate) - run unsafe function via `fork()`
 - [ ] [postgres-language-server](https://github.com/supabase-community/postgres-language-server) - language server for postgres
 
