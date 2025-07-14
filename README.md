@@ -229,6 +229,8 @@ TODO
 - [ ] [typify](https://github.com/oxidecomputer/typify) - JSON Schema into idiomatic Rust types
 - [ ] [mem-isolate](https://github.com/brannondorsey/mem-isolate) - run unsafe function via `fork()`
 - [ ] [postgres-language-server](https://github.com/supabase-community/postgres-language-server) - language server for postgres
+- [ ] [htmd](https://github.com/letmutex/htmd) - html to markdown
+- [ ] [foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache
 
 ## Scientific computing
 
@@ -363,6 +365,8 @@ TODO
 - [mdq](https://github.com/yshavit/mdq) - like jq but for markdown
 - [xan](https://github.com/medialab/xan) - CSV processor
 - [ferron](https://github.com/ferronweb/ferron) - web server
+- [ferrisup](https://github.com/Jitpomi/ferrisup) - bootstrapping tool
+- [diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool
 
 ## Rust FFI
 
