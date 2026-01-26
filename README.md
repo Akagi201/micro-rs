@@ -8,6 +8,7 @@ Micro services in Rust
 
 - [ ] [Axum](https://github.com/tokio-rs/axum) - web framework
 - [ ] [utoipa](https://github.com/juhaku/utoipa) - auto generated openapi documentation
+- [ ] [aide](https://github.com/tamasfe/aide) - auto generated openapi documentation
 
 ## GRPC
 
@@ -19,6 +20,7 @@ TODO
 
 ## Common Libs
 
+- [ ] [rustrtc](https://github.com/restsend/rustrtc) - pure Rust WebRTC
 - [ ] [shadow-rs](https://github.com/baoyachi/shadow-rs) - build time information
 - [ ] [serde_with](https://github.com/jonasbb/serde_with) - serde helpers
 - [ ] [tokio](https://tokio.rs/) - async runtime
@@ -231,6 +233,7 @@ TODO
 - [ ] [postgres-language-server](https://github.com/supabase-community/postgres-language-server) - language server for postgres
 - [ ] [htmd](https://github.com/letmutex/htmd) - html to markdown
 - [ ] [foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache
+- [ ] [hifitime](https://github.com/nyx-space/hifitime) - high fidelity time management
 
 ## Scientific computing
 
@@ -278,6 +281,9 @@ TODO
 
 ## Tools
 
+- [mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - rust mermaid render
+- [zerobrew](https://github.com/lucasgelfond/zerobrew) - rust homebrew
+- [rport](https://github.com/restsend/rport) - remote port forwarding tool based on WebRTC
 - [taplo](https://github.com/tamasfe/taplo) - toml toolkit
 - [shuttle-rs](https://docs.shuttle.rs/) - devops
 - [squawk](https://github.com/sbdchd/squawk) - postgres sql linter
@@ -367,6 +373,8 @@ TODO
 - [ferron](https://github.com/ferronweb/ferron) - web server
 - [ferrisup](https://github.com/Jitpomi/ferrisup) - bootstrapping tool
 - [diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool
+- [code2prompt](https://github.com/mufeedvh/code2prompt) - code to prompt
+- [BugStalker](https://github.com/godzie44/BugStalker) - Modern debugger for Linux x86-64
 
 ## Rust FFI
 
