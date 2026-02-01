@@ -234,6 +234,8 @@ TODO
 - [ ] [htmd](https://github.com/letmutex/htmd) - html to markdown
 - [ ] [foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache
 - [ ] [hifitime](https://github.com/nyx-space/hifitime) - high fidelity time management
+- [ ] [rwmem](https://github.com/erayerdin/rwmem) - cheat engine
+- [ ] [tauri-plugin-llm](https://github.com/crabnebula-dev/tauri-plugin-llm) - tauri llm plugin
 
 ## Scientific computing
 
@@ -281,6 +283,8 @@ TODO
 
 ## Tools
 
+- [devenv](https://devenv.sh/) - dev env using nix
+- [ffmpreg](https://github.com/yazaldefilimone/ffmpreg) - ffmpeg write in rust
 - [mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - rust mermaid render
 - [zerobrew](https://github.com/lucasgelfond/zerobrew) - rust homebrew
 - [rport](https://github.com/restsend/rport) - remote port forwarding tool based on WebRTC
