@@ -198,6 +198,7 @@ TODO
 - [ ] [plotlars](https://github.com/alceal/plotlars) - plotly wrapper
 - [ ] [dasm](https://github.com/DvvCz/dasm) - x86/x64 assembler
 - [ ] [iced](https://github.com/icedland/iced) - x86/x64 assembler disassembeler
+- [ ] [ecdysis](https://github.com/cloudflare/ecdysis) - A library for graceful restarts in Rust
 - [ ] [wrappers](https://github.com/supabase/wrappers) - development framework for Postgres Foreign Data Wrappers(FDW)
 - [ ] [moka](https://github.com/moka-rs/moka) - a fast, concurrent cache library
 - [ ] [rkyv](https://github.com/rkyv/rkyv) - zero-copy deserialization framework
@@ -236,6 +237,7 @@ TODO
 - [ ] [hifitime](https://github.com/nyx-space/hifitime) - high fidelity time management
 - [ ] [rwmem](https://github.com/erayerdin/rwmem) - cheat engine
 - [ ] [tauri-plugin-llm](https://github.com/crabnebula-dev/tauri-plugin-llm) - tauri llm plugin
+- [ ] [indexmap](https://github.com/indexmap-rs/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
 
 ## Scientific computing
 
@@ -266,6 +268,7 @@ TODO
 - <https://github.com/barter-rs/barter-rs> - like ccxt, but in rust
 - <https://github.com/gosub-io/gosub-engine> - browser engine in rust
 - <https://github.com/NishantJoshi00/shelgon> - repl framework based on ratatui
+- <https://github.com/project-blinc/Blinc> - A GPU-accelerated, cross-platform UI framework
 
 ## AI
 
@@ -379,6 +382,7 @@ TODO
 - [diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool
 - [code2prompt](https://github.com/mufeedvh/code2prompt) - code to prompt
 - [BugStalker](https://github.com/godzie44/BugStalker) - Modern debugger for Linux x86-64
+- [monty](https://github.com/pydantic/monty) - minimal python interpreter use by AI
 
 ## Rust FFI
 
