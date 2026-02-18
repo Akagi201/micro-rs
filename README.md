@@ -238,6 +238,12 @@ TODO
 - [ ] [rwmem](https://github.com/erayerdin/rwmem) - cheat engine
 - [ ] [tauri-plugin-llm](https://github.com/crabnebula-dev/tauri-plugin-llm) - tauri llm plugin
 - [ ] [indexmap](https://github.com/indexmap-rs/indexmap) - A hash table with consistent order and fast iteration; access items by key or sequence index
+- [ ] [teleop](https://github.com/arnodb/teleop) - local RPC unix socket and Cap'n Proto
+- [ ] [nono](https://github.com/always-further/nono) - kernel sandbox for AI agent
+- [ ] [skillsandbox](https://github.com/theMachineClay/skillsandbox) - AI agent skill sandbox 
+- [ ] [tokio-fsm](https://github.com/abhishekshree/tokio-fsm) - tokio fsm
+- [ ] [termplt](https://github.com/EdCarney/termplt) - advanced graphing in terminal
+- [ ] [Silverfir-nano](https://github.com/mbbill/Silverfir-nano) - jit wasm interpreter
 
 ## Scientific computing
 
