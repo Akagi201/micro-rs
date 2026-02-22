@@ -245,6 +245,7 @@ TODO
 - [ ] [termplt](https://github.com/EdCarney/termplt) - advanced graphing in terminal
 - [ ] [Silverfir-nano](https://github.com/mbbill/Silverfir-nano) - jit wasm interpreter
 - [ ] [boltffi](https://github.com/boltffi/boltffi) - ffi
+- [ ] [yororen-ui](https://github.com/MeowLynxSea/yororen-ui)- GPUI components
 
 ## Scientific computing
 
@@ -293,6 +294,7 @@ TODO
 
 ## Tools
 
+- [mdxport-cli](https://github.com/cosformula/mdxport-cli) - markdown to pdf by typst
 - [devenv](https://devenv.sh/) - dev env using nix
 - [ffmpreg](https://github.com/yazaldefilimone/ffmpreg) - ffmpeg write in rust
 - [mermaid-rs-renderer](https://github.com/1jehuang/mermaid-rs-renderer) - rust mermaid render
