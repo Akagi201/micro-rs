@@ -246,6 +246,7 @@ TODO
 - [ ] [Silverfir-nano](https://github.com/mbbill/Silverfir-nano) - jit wasm interpreter
 - [ ] [boltffi](https://github.com/boltffi/boltffi) - ffi
 - [ ] [yororen-ui](https://github.com/MeowLynxSea/yororen-ui)- GPUI components
+- [ ] [charton](https://github.com/wangjiawen2013/charton) - A high-level, layered charting system for Rust, designed for Polars-first data workflows and multi-backend rendering.
 
 ## Scientific computing
 
@@ -294,6 +295,7 @@ TODO
 
 ## Tools
 
+- [netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics TUI
 - [mdxport-cli](https://github.com/cosformula/mdxport-cli) - markdown to pdf by typst
 - [devenv](https://devenv.sh/) - dev env using nix
 - [ffmpreg](https://github.com/yazaldefilimone/ffmpreg) - ffmpeg write in rust
