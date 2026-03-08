@@ -247,6 +247,7 @@ TODO
 - [ ] [boltffi](https://github.com/boltffi/boltffi) - ffi
 - [ ] [yororen-ui](https://github.com/MeowLynxSea/yororen-ui)- GPUI components
 - [ ] [charton](https://github.com/wangjiawen2013/charton) - A high-level, layered charting system for Rust, designed for Polars-first data workflows and multi-backend rendering.
+- [ ] [pollster](https://github.com/zesterer/pollster) - async executor that lets you block on a future
 
 ## Scientific computing
 
